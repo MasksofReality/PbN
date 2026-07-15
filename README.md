@@ -43,7 +43,13 @@ npm run build
 
 ## Known open items
 
-None remain open — see Resolved below. New conflicts may surface as more source docs get converted; add them here if so.
+- **Discord & SL landing point links are placeholders.** Once you have the real URLs, replace them in these two spots:
+  1. `src/_includes/layouts/base.njk` — search for `#DISCORD_INVITE_LINK_HERE` and `#SL_LANDING_POINT_HERE` (footer, appears on every page)
+  2. `src/the-sim/join-us.md` — search for the same two placeholder strings (the two big connect cards)
+
+  Just replace the placeholder text with your real URL inside the `href="..."` quotes, leaving everything else the same.
+
+- **`/contact/` page doesn't exist yet.** The footer has a "Contact the Staff" link pointing to `/contact/`, left over from the original site plan — this 404s until that page is built. Worth building or removing before Grand Opening.
 
 ## Resolved
 

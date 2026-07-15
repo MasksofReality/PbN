@@ -334,6 +334,37 @@ body::before {
 }
 .signal-line--footer { max-width: 400px; margin: 0 auto 1.5rem; opacity: 0.5; }
 
+.footer-connect { display: flex; justify-content: center; gap: 2rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
+.footer-connect-link {
+  display: inline-flex; align-items: center; gap: 0.5em;
+  font-family: var(--font-mono); font-size: 0.78rem; letter-spacing: 0.05em; text-transform: uppercase;
+  color: var(--parchment); text-decoration: none; border: 1px solid var(--border); padding: 0.5em 1em;
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+.footer-connect-link:hover { border-color: var(--wyrd-cyan); color: var(--wyrd-cyan); }
+.footer-connect-dot {
+  width: 6px; height: 6px; border-radius: 50%; background: var(--wyrd-cyan);
+  box-shadow: 0 0 8px rgba(62,201,214,0.8);
+  animation: neon-flicker 5s ease-in-out infinite;
+}
+
+/* ===== Connect cards (Join Us page) ===== */
+.connect-grid {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1px;
+  background: var(--border); margin: 2rem 0 2.5rem; max-width: 780px;
+}
+.connect-card {
+  background: var(--ink); padding: 1.8rem 1.6rem; text-decoration: none;
+  display: flex; flex-direction: column; gap: 0.4rem; transition: background 0.15s ease;
+}
+.connect-card:hover { background: var(--ink-soft); }
+.connect-label {
+  font-family: var(--font-mono); font-size: 0.68rem; letter-spacing: 0.1em; text-transform: uppercase;
+  color: var(--wyrd-amber);
+}
+.connect-name { font-family: var(--font-display); font-size: 1.35rem; font-weight: 600; color: #fff; }
+.connect-desc { font-size: 0.92rem; color: var(--parchment-dim); line-height: 1.5; }
+
 /* ===== Responsive nav ===== */
 @media (max-width: 880px) {
   .nav-toggle {
