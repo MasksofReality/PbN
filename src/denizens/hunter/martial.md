@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: hunter
 title: Martial Creed
 designation: CREED — MARTIAL
 clearance: PUBLIC

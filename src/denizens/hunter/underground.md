@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: hunter
 title: Underground Creed
 designation: CREED — UNDERGROUND
 clearance: PUBLIC

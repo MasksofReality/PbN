@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: hellion
 title: Way of the Incandescent Owl
 designation: DHARMA — INCANDESCENT OWL
 clearance: PUBLIC

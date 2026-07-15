@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: lost
 title: Ogres
 designation: SEEMING — OGRES
 clearance: PUBLIC

@@ -4,11 +4,11 @@ title: Welcome
 eyebrow: The Sim
 ---
 
-Welcome to Requiem by Night.
+Welcome to Purgatory by Night.
 
 This is a collaborative roleplay experience set within the World of Darkness — a homebrew setting built from the 20th Anniversary editions of the classic game lines, woven together into something entirely our own. We are glad you found us.
 
-Requiem by Night takes place in the year 200 TE — 2278 CE by the old calendar — two centuries after the catastrophic events that reshaped the world and nearly ended it entirely. You find yourself in **Basilica Purgatory**: a city-state built upon the sunken ruins of what was once San Francisco, surrounded by walls that keep the worst of the broken world at bay. To the northwest, across the fog-shrouded strait, lies the Isle of Purgatory — a place where the wealthy and the lucky come to see the wild world beyond the walls without being consumed by it.
+Purgatory by Night takes place in the year 200 TE — 2278 CE by the old calendar — two centuries after the catastrophic events that reshaped the world and nearly ended it entirely. You find yourself in **Basilica Purgatory**: a city-state built upon the sunken ruins of what was once San Francisco, surrounded by walls that keep the worst of the broken world at bay. To the northwest, across the fog-shrouded strait, lies the Isle of Purgatory — a place where the wealthy and the lucky come to see the wild world beyond the walls without being consumed by it.
 
 Make no mistake, though. There is no truly safe place left in all the world. There are simply places that hide the darkness better.
 

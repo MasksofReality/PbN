@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: gifted
 title: Beastcaller
 designation: PSYCHIC TYPE — BEASTCALLER
 clearance: PUBLIC

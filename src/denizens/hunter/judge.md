@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: hunter
 title: Judge Creed
 designation: CREED — JUDGE
 clearance: PUBLIC

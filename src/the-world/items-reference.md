@@ -6,7 +6,7 @@ clearance: PUBLIC
 eyebrow: Storyteller & Player Reference
 ---
 
-Five categories of notable items exist in Requiem by Night: **Fetishes & Talens** (Garou spirit-bound objects), **Tokens** (Lost Fae items), **Artifacts** (cross-splat magical items), **Relics** (historically significant objects), and **Devices** (Technocracy salvage and Omega Crate technology).
+Five categories of notable items exist in Purgatory by Night: **Fetishes & Talens** (Garou spirit-bound objects), **Tokens** (Lost Fae items), **Artifacts** (cross-splat magical items), **Relics** (historically significant objects), and **Devices** (Technocracy salvage and Omega Crate technology).
 
 | Rating | Meaning |
 |---|---|

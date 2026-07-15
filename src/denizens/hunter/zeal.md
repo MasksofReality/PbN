@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: hunter
 title: Zeal Creed
 designation: CREED — ZEAL (IMBUED/SHIH ONLY)
 clearance: PUBLIC

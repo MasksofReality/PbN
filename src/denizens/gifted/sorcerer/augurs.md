@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: gifted
 title: Augurs
 designation: SORCERER SCHOOL — AUGURS
 clearance: PUBLIC

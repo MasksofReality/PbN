@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: lost
 title: Pooka
 designation: DREAMBORNE KITH — POOKA (RARE)
 clearance: MENTOR / STORYTELLER SHARE ONLY

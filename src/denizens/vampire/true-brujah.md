@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: vampire
 title: True Brujah
 designation: BLOODLINE — TRUE BRUJAH
 clearance: PUBLIC

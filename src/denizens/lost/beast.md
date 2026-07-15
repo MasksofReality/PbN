@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: lost
 title: Beast
 designation: SEEMING — BEAST
 clearance: PUBLIC

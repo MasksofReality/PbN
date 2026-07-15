@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: hunter
 title: Faithful Creed
 designation: CREED — FAITHFUL (IMBUED/SHIH ONLY)
 clearance: PUBLIC

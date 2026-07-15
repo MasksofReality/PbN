@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: werewolf
 title: Children of Eshtarra
 designation: TRIBE — CHILDREN OF ESHTARRA
 clearance: PUBLIC

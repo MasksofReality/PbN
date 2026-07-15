@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: hunter
 title: Vision Creed
 designation: CREED — VISION (IMBUED/SHIH ONLY)
 clearance: PUBLIC

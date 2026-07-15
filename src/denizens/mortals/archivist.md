@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: mortals
 title: Archivist
 designation: PROFESSION — ARCHIVIST
 clearance: PUBLIC

@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: werewolf
 title: Fianna
 designation: TRIBE — FIANNA
 clearance: PUBLIC

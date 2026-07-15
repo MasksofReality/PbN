@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: hellion
 title: Song of the Dancing Dragon
 designation: DHARMA — SONG OF THE DANCING DRAGON
 clearance: PUBLIC

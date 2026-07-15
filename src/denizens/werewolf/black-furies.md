@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: werewolf
 title: Black Furies
 designation: TRIBE — BLACK FURIES
 clearance: PUBLIC

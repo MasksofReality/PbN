@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: lost
 title: Clurichaun
 designation: DREAMBORNE KITH — CLURICHAUN (RARE)
 clearance: MENTOR / STORYTELLER SHARE ONLY

@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: vampire
 title: Ventrue
 designation: BLOODLINE — VENTRUE
 clearance: PUBLIC

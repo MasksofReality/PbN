@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: gifted
 title: Vitalist
 designation: PSYCHIC TYPE — VITALIST
 clearance: PUBLIC

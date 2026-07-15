@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: gifted
 title: Empath
 designation: PSYCHIC TYPE — EMPATH
 clearance: PUBLIC

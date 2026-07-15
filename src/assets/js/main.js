@@ -9,7 +9,100 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   buildDossierSections();
+  initSearch();
 });
+
+function initSearch() {
+  var btn = document.getElementById("search-toggle");
+  var closeBtn = document.getElementById("search-close");
+  var overlay = document.getElementById("search-overlay");
+  var input = document.getElementById("search-input");
+  var resultsEl = document.getElementById("search-results");
+  if (!btn || !overlay || !input || !resultsEl) return;
+
+  var indexData = null;
+  var indexPromise = null;
+
+  function loadIndex() {
+    if (!indexPromise) {
+      indexPromise = fetch("/search-index.json")
+        .then(function (r) { return r.json(); })
+        .then(function (data) { indexData = data; return data; })
+        .catch(function () { indexData = []; });
+    }
+    return indexPromise;
+  }
+
+  function openSearch() {
+    overlay.hidden = false;
+    document.body.style.overflow = "hidden";
+    loadIndex();
+    setTimeout(function () { input.focus(); }, 10);
+  }
+
+  function closeSearch() {
+    overlay.hidden = true;
+    document.body.style.overflow = "";
+    input.value = "";
+    resultsEl.innerHTML = "";
+  }
+
+  btn.addEventListener("click", openSearch);
+  closeBtn.addEventListener("click", closeSearch);
+  overlay.addEventListener("click", function (e) {
+    if (e.target === overlay) closeSearch();
+  });
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "Escape" && !overlay.hidden) {
+      closeSearch();
+      return;
+    }
+    var typing = document.activeElement && (document.activeElement.tagName === "INPUT" || document.activeElement.tagName === "TEXTAREA");
+    if (!typing && overlay.hidden && (e.key === "/" || ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "k"))) {
+      e.preventDefault();
+      openSearch();
+    }
+  });
+
+  input.addEventListener("input", function () {
+    var q = input.value.trim().toLowerCase();
+    resultsEl.innerHTML = "";
+    if (!q || !indexData) return;
+
+    var matches = indexData.filter(function (p) {
+      var blob = ((p.title || "") + " " + (p.eyebrow || "") + " " + (p.designation || "")).toLowerCase();
+      return blob.indexOf(q) !== -1;
+    }).slice(0, 20);
+
+    if (matches.length === 0) {
+      var none = document.createElement("p");
+      none.className = "search-no-results";
+      none.textContent = "No matches found.";
+      resultsEl.appendChild(none);
+      return;
+    }
+
+    matches.forEach(function (p) {
+      var a = document.createElement("a");
+      a.className = "search-result";
+      a.href = p.url;
+
+      var titleSpan = document.createElement("span");
+      titleSpan.className = "search-result-title";
+      titleSpan.textContent = p.title;
+      a.appendChild(titleSpan);
+
+      if (p.eyebrow) {
+        var eyebrowSpan = document.createElement("span");
+        eyebrowSpan.className = "search-result-eyebrow";
+        eyebrowSpan.textContent = p.eyebrow;
+        a.appendChild(eyebrowSpan);
+      }
+
+      resultsEl.appendChild(a);
+    });
+  });
+}
 
 function slugify(text) {
   return text

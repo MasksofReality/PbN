@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: gifted
 title: Wayfarers
 designation: SORCERER SCHOOL — WAYFARERS
 clearance: PUBLIC

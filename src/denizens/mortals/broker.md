@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: mortals
 title: Broker
 designation: PROFESSION — BROKER
 clearance: PUBLIC

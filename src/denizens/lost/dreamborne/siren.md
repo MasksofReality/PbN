@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: lost
 title: Siren
 designation: DREAMBORNE KITH — SIREN (RARE)
 clearance: MENTOR / STORYTELLER SHARE ONLY

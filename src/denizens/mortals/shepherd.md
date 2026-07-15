@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: mortals
 title: Shepherd
 designation: PROFESSION — SHEPHERD
 clearance: PUBLIC

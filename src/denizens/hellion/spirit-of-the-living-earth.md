@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: hellion
 title: Spirit of the Living Earth
 designation: DHARMA — SPIRIT OF THE LIVING EARTH
 clearance: PUBLIC

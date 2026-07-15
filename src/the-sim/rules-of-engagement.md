@@ -6,7 +6,7 @@ eyebrow: The Sim
 
 *The guidelines that keep this a good place for everyone.*
 
-These rules exist because we want Requiem by Night to be a space where great stories are told and where every player feels safe, respected, and genuinely welcome. They are not designed to intimidate or restrict you — they are designed to protect the experience we are all here to have together.
+These rules exist because we want Purgatory by Night to be a space where great stories are told and where every player feels safe, respected, and genuinely welcome. They are not designed to intimidate or restrict you — they are designed to protect the experience we are all here to have together.
 
 Please read them fully. Most of them are common sense. All of them matter.
 
@@ -16,7 +16,7 @@ All Second Life Terms of Service and Community Standards apply at all times on t
 
 ## The Rules
 
-**1. Be an Adult.** You must be 18 years of age or older to play here. This is a legal requirement, not a preference. Requiem by Night is an adult roleplay environment with mature themes. If you are not of legal age, this is not the right space for you.
+**1. Be an Adult.** You must be 18 years of age or older to play here. This is a legal requirement, not a preference. Purgatory by Night is an adult roleplay environment with mature themes. If you are not of legal age, this is not the right space for you.
 
 **2. Respect Every Player.** We do not expect everyone to like each other. We do expect everyone to treat each other with basic courtesy and civility, both in character and out of character. OOC disrespect, harassment, and personal attacks are not acceptable here. Your character can be cruel. You cannot. If conflict arises between players, bring it to a staff member rather than escalating it publicly.
 
@@ -59,6 +59,6 @@ Follow the ten rules above and everything will be fine. If you have questions ab
 
 We are glad you are here. Go make something worth remembering.
 
-*— The Requiem by Night Staff*
+*— The Purgatory by Night Staff*
 
 </div>

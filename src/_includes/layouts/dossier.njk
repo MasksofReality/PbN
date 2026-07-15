@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 ---
-<article class="page page--dossier">
+<article class="page page--dossier{% if splat %} splat-{{ splat }}{% endif %}">
   <div class="dossier-header">
     <div class="dossier-meta">
       <span class="dossier-tag">DESIGNATION: {{ designation or "UNFILED" }}</span>

@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: lost
 title: Wizened
 designation: SEEMING — WIZENED
 clearance: PUBLIC

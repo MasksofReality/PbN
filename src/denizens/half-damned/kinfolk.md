@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: half-damned
 title: Kinfolk
 designation: ARCHETYPE — KINFOLK
 clearance: PUBLIC

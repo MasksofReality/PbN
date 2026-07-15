@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: vampire
 title: Malkavian
 designation: BLOODLINE — MALKAVIAN
 clearance: PUBLIC

@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: gifted
 title: Druids
 designation: SORCERER SCHOOL — DRUIDS
 clearance: PUBLIC

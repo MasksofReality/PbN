@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: werewolf
 title: Glass Walkers
 designation: TRIBE — GLASS WALKERS
 clearance: PUBLIC

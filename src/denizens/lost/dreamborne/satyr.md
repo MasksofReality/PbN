@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: lost
 title: Satyr
 designation: DREAMBORNE KITH — SATYR (RARE)
 clearance: MENTOR / STORYTELLER SHARE ONLY

@@ -58,9 +58,9 @@ Everything here is a quick definition. For the full story behind any term, see t
 This is not a standard World of Darkness setting. Many familiar terms have changed — if something from the source books doesn't seem to apply here, check this section first.
 </div>
 
-**Lilum** *(LIE-lum)* — The vampires of Requiem by Night, also called Vampire or Kindred in-world. When Caine walked into Oblivion, Lilith offered every vampire rebirth through her covenant. Those who chose it are the Lilum. The old Sects (Camarilla, Sabbat, Anarchs) don't exist — Factions replaced them. The six common bloodlines are Ventrue, Toreador, Malkavian, Gangrel, Nosferatu, and True Brujah.
+**Lilum** *(LIE-lum)* — The vampires of Purgatory by Night, also called Vampire or Kindred in-world. When Caine walked into Oblivion, Lilith offered every vampire rebirth through her covenant. Those who chose it are the Lilum. The old Sects (Camarilla, Sabbat, Anarchs) don't exist — Factions replaced them. The six common bloodlines are Ventrue, Toreador, Malkavian, Gangrel, Nosferatu, and True Brujah.
 
-**Garou** — The werewolves of Requiem by Night, also called Werewolf in-world, and Gaian Shifters formally. Remade by Eshtarra the Younger after Gaia the Elder's death. Bane is obsidian, not silver. Metis carry no stigma. Six tribes: Black Furies, Fianna, Get of Fenris, Glass Walkers, Silent Striders, and Children of Eshtarra.
+**Garou** — The werewolves of Purgatory by Night, also called Werewolf in-world, and Gaian Shifters formally. Remade by Eshtarra the Younger after Gaia the Elder's death. Bane is obsidian, not silver. Metis carry no stigma. Six tribes: Black Furies, Fianna, Get of Fenris, Glass Walkers, Silent Striders, and Children of Eshtarra.
 
 **The Lost** — Mortals taken to Arcadia by the Fae and eventually escaped, returning changed. Six seemings: Beasts, Darklings, Elementals, Fairest, Ogres, and Wizened.
 

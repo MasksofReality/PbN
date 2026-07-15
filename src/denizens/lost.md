@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: lost
 title: Lost
 designation: DENIZEN_03 — LOST
 clearance: PUBLIC

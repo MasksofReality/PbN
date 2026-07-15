@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: hunter
 title: Entrepreneurial Creed
 designation: CREED — ENTREPRENEURIAL
 clearance: PUBLIC

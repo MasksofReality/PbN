@@ -10,7 +10,7 @@ For several decades, the World of Darkness has explored the darkness in the real
 
 We believe that exploration of these subjects in collaborative fiction is as valid and as meaningful as it is in literature, film, or any other storytelling medium. Including a difficult subject in a story is not the same as glorifying it. Approached with care and honesty, it can be the opposite — a way to understand the problems we face so we are better equipped to confront them.
 
-Requiem by Night continues in that tradition. This is a chronicle about survival in a universe where monsters are real in every shape and form imaginable. The stories told here may include references to or implications of:
+Purgatory by Night continues in that tradition. This is a chronicle about survival in a universe where monsters are real in every shape and form imaginable. The stories told here may include references to or implications of:
 
 - Sexual violence and predation
 - Physical violence and graphic injury
@@ -46,7 +46,7 @@ If at any time a scene becomes too much, you are always within your rights to st
 
 This is a story and a game about monsters. Please do not use it as an excuse to be one.
 
-**You must be 18 years of age or older to participate in Requiem by Night.** By continuing, you confirm that you are of legal age and that you have read and understood this warning.
+**You must be 18 years of age or older to participate in Purgatory by Night.** By continuing, you confirm that you are of legal age and that you have read and understood this warning.
 
 </div>
 

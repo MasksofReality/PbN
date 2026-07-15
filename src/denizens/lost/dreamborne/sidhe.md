@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: lost
 title: Sidhe
 designation: DREAMBORNE KITH — SIDHE (RARE)
 clearance: MENTOR / STORYTELLER SHARE ONLY

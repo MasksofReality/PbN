@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: lost
 title: Firbolg
 designation: DREAMBORNE KITH — FIRBOLG (RARE)
 clearance: MENTOR / STORYTELLER SHARE ONLY

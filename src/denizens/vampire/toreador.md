@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: vampire
 title: Toreador
 designation: BLOODLINE — TOREADOR
 clearance: PUBLIC

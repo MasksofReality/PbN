@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: vampire
 title: Vampire
 designation: DENIZEN_01 — VAMPIRE (LILUM)
 clearance: PUBLIC

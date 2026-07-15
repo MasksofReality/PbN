@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: lost
 title: Nocker
 designation: DREAMBORNE KITH — NOCKER (RARE)
 clearance: MENTOR / STORYTELLER SHARE ONLY

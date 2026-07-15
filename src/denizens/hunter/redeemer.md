@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: hunter
 title: Redeemer Creed
 designation: CREED — REDEEMER
 clearance: PUBLIC

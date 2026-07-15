@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: half-damned
 title: Dhampir
 designation: ARCHETYPE — DHAMPIR
 clearance: PUBLIC

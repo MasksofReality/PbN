@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: hellion
 title: Path of the Devil Tiger
 designation: DHARMA — DEVIL TIGER
 clearance: PUBLIC

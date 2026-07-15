@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: hunter
 title: Bystander
 designation: HUNTER TYPE — BYSTANDER (RARE)
 clearance: MENTOR / STORYTELLER SHARE ONLY
@@ -37,7 +38,7 @@ A Bystander Rare Application must explain, in detail:
 
 ## Roleplaying the Bystander
 
-The most compelling Bystander characters have a genuine, specific reason for their fall — not vague burnout, but an actual event, betrayal, or choice that a Storyteller can build story around. Bystanders sit at an unusually rich intersection: still capable of recognizing supernatural activity, still known (and sometimes still wanted) by their former community, but without the resources or standing that made them effective before. Whether they're trying to earn their way back, actively avoiding it, or building something entirely new is one of the most character-defining open questions available in Requiem by Night.
+The most compelling Bystander characters have a genuine, specific reason for their fall — not vague burnout, but an actual event, betrayal, or choice that a Storyteller can build story around. Bystanders sit at an unusually rich intersection: still capable of recognizing supernatural activity, still known (and sometimes still wanted) by their former community, but without the resources or standing that made them effective before. Whether they're trying to earn their way back, actively avoiding it, or building something entirely new is one of the most character-defining open questions available in Purgatory by Night.
 
 ## Quick Reference
 

@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: gifted
 title: Gifted
 designation: DENIZEN_05 — GIFTED (SORCERER & PSYCHIC)
 clearance: PUBLIC

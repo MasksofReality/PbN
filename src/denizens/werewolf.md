@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: werewolf
 title: Werewolf
 designation: DENIZEN_02 — WEREWOLF (GAROU)
 clearance: PUBLIC

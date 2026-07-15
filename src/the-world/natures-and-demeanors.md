@@ -14,7 +14,7 @@ Any archetype on this list can serve as either Nature or Demeanor unless otherwi
 
 | Rating | Meaning |
 |---|---|
-| ★★★ Perfect Fit | Deeply resonant with Requiem by Night's themes — strongly recommended |
+| ★★★ Perfect Fit | Deeply resonant with Purgatory by Night's themes — strongly recommended |
 | ★★☆ Strong Fit | Works well with minor adaptation — good for most characters |
 | ★☆☆ Niche Fit | Valid but narrower — best for specific concepts, discuss with your Mentor |
 | ⚠ Use With Care | Requires Mentor discussion and/or Admin approval before selection as a Nature |

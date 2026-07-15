@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: gifted
 title: Ossians
 designation: SORCERER SCHOOL — OSSIANS
 clearance: PUBLIC

@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: hellion
 title: Hellion
 designation: DENIZEN_04 — HELLION
 clearance: PUBLIC

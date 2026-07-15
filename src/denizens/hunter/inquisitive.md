@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: hunter
 title: Inquisitive Creed
 designation: CREED — INQUISITIVE
 clearance: PUBLIC

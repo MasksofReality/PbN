@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: hellion
 title: A Thousand Whispers
 designation: DHARMA — A THOUSAND WHISPERS (RARE)
 clearance: PUBLIC

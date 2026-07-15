@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: lost
 title: Sluagh
 designation: DREAMBORNE KITH — SLUAGH (RARE)
 clearance: MENTOR / STORYTELLER SHARE ONLY

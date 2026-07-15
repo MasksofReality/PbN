@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: lost
 title: Elementals
 designation: SEEMING — ELEMENTALS
 clearance: PUBLIC

@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: lost
 title: Piskie
 designation: DREAMBORNE KITH — PISKIE (RARE)
 clearance: MENTOR / STORYTELLER SHARE ONLY

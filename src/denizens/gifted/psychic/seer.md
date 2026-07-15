@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: gifted
 title: Seer
 designation: PSYCHIC TYPE — SEER
 clearance: PUBLIC

@@ -1,6 +1,6 @@
-# Requiem by Night — Website
+# Purgatory by Night — Website
 
-The public site for Requiem by Night, built with [Eleventy](https://www.11ty.dev/) and hosted on GitHub Pages.
+The public site for Purgatory by Night, built with [Eleventy](https://www.11ty.dev/) and hosted on GitHub Pages.
 
 ## For staff: how to edit a page (no coding needed)
 
@@ -37,7 +37,7 @@ npm run build
 1. In your domain registrar, add a `CNAME` record pointing `www` (or your chosen subdomain) at `<your-github-username>.github.io`.
 2. In this repo's root, create a file named `CNAME` (no extension) containing just your domain, e.g.:
    ```
-   requiembynight.com
+   purgatorybynight.com
    ```
 3. In the repo's GitHub Settings → Pages, set the custom domain and enable "Enforce HTTPS."
 

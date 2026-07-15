@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: werewolf
 title: Silent Striders
 designation: TRIBE — SILENT STRIDERS
 clearance: PUBLIC

@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: vampire
 title: Gangrel
 designation: BLOODLINE — GANGREL
 clearance: PUBLIC

@@ -6,7 +6,7 @@ clearance: PUBLIC
 eyebrow: The World
 ---
 
-History in Requiem by Night exists in layers. What humans know is partial and rationalized by the Consensus. What supernaturals know is fuller, filtered through two centuries of oral tradition and political agenda. The current year is **200 TE (2278 CE)**.
+History in Purgatory by Night exists in layers. What humans know is partial and rationalized by the Consensus. What supernaturals know is fuller, filtered through two centuries of oral tradition and political agenda. The current year is **200 TE (2278 CE)**.
 
 <div class="callout callout--rare">
 <strong>A note for staff:</strong> the source timeline documents disagree on a few specific dates (e.g. the founding of Basilica Purgatory is given as both 100 TE and 115 TE in different docs). This page follows the World Bible's dates. Worth a pass to reconcile the source docs so new lore doesn't inherit the mismatch.

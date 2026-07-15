@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: hellion
 title: Hymn of the Autumnal Vigil
 designation: DHARMA — HYMN OF THE AUTUMNAL VIGIL
 clearance: PUBLIC

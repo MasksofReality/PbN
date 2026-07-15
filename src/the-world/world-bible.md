@@ -8,9 +8,9 @@ eyebrow: The World
 
 *When the end of the world came, it was neither quick nor remotely merciful. The world took decades to die, and worse still, God was a no-show on the apocalypse's VIP guest list. But we are not telling a story about the end of the world. This is a story about what happens once the end has come, gone, and the world still keeps on turning.*
 
-## What Is Requiem by Night?
+## What Is Purgatory by Night?
 
-Requiem by Night is a homebrewed World of Darkness roleplay sim set in the year **200 TE (2278 CE)** — two centuries after the apocalyptic events known collectively as the Sundering. It combines the tone of the New World of Darkness with the splat mechanics of the 20th Anniversary Old World of Darkness editions, merged into a world entirely its own.
+Purgatory by Night is a homebrewed World of Darkness roleplay sim set in the year **200 TE (2278 CE)** — two centuries after the apocalyptic events known collectively as the Sundering. It combines the tone of the New World of Darkness with the splat mechanics of the 20th Anniversary Old World of Darkness editions, merged into a world entirely its own.
 
 This is not a setting about being the biggest, most powerful creature of the night. It is about surviving in a ravaged world — navigating the politics of a walled city built on ruins, hiding what you are from the humans who outnumber you a thousand to one, and finding meaning in the aftermath of everything that once mattered being gone.
 

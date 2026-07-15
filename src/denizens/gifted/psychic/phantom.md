@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: gifted
 title: Phantom
 designation: PSYCHIC TYPE — PHANTOM
 clearance: PUBLIC

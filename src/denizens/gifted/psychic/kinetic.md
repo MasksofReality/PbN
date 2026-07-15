@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: gifted
 title: Kinetic
 designation: PSYCHIC TYPE — KINETIC
 clearance: PUBLIC

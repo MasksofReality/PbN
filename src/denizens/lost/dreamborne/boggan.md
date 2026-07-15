@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: lost
 title: Boggan
 designation: DREAMBORNE KITH — BOGGAN (RARE)
 clearance: MENTOR / STORYTELLER SHARE ONLY

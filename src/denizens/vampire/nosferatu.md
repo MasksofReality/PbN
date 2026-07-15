@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: vampire
 title: Nosferatu
 designation: BLOODLINE — NOSFERATU
 clearance: PUBLIC

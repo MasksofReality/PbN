@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: mortals
 title: Enforcer
 designation: PROFESSION — ENFORCER
 clearance: PUBLIC

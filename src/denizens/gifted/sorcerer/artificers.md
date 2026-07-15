@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: gifted
 title: Artificers
 designation: SORCERER SCHOOL — ARTIFICERS
 clearance: PUBLIC

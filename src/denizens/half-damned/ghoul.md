@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: half-damned
 title: Ghoul
 designation: ARCHETYPE — GHOUL
 clearance: PUBLIC

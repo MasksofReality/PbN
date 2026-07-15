@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: lost
 title: Eshu
 designation: DREAMBORNE KITH — ESHU (RARE)
 clearance: MENTOR / STORYTELLER SHARE ONLY

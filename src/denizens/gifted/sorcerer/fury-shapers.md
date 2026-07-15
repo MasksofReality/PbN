@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: gifted
 title: Fury Shapers
 designation: SORCERER SCHOOL — FURY SHAPERS
 clearance: PUBLIC

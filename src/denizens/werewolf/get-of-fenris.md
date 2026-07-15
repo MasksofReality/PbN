@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: werewolf
 title: Get of Fenris
 designation: TRIBE — GET OF FENRIS
 clearance: PUBLIC

@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: half-damned
 title: Half-Damned
 designation: DENIZEN_08 — HALF-DAMNED
 clearance: PUBLIC

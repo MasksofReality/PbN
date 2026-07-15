@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: hunter
 title: Hunter
 designation: DENIZEN_07 — HUNTER
 clearance: PUBLIC

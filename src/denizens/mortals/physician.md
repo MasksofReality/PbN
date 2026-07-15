@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: mortals
 title: Physician
 designation: PROFESSION — PHYSICIAN
 clearance: PUBLIC

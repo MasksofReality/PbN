@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: mortals
 title: Mortals
 designation: DENIZEN_06 — HUMAN
 clearance: PUBLIC

@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: half-damned
 title: Projector
 designation: ARCHETYPE — PROJECTOR
 clearance: PUBLIC

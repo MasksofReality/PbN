@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: lost
 title: Dreamborne
 designation: RARE PATH — DREAMBORNE
 clearance: MENTOR / STORYTELLER SHARE ONLY

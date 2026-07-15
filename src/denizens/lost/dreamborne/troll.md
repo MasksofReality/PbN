@@ -1,5 +1,6 @@
 ---
 layout: layouts/dossier.njk
+splat: lost
 title: Troll
 designation: DREAMBORNE KITH — TROLL (RARE)
 clearance: MENTOR / STORYTELLER SHARE ONLY
