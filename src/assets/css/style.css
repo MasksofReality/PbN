@@ -182,17 +182,47 @@ body::before {
 .wordmark-main { font-family: var(--font-display); font-size: 1.3rem; font-weight: 700; color: #fff; }
 .wordmark-sub { font-family: var(--font-mono); font-size: 0.68rem; letter-spacing: 0.08em; color: var(--anchor-teal-bright); text-transform: uppercase; }
 
-.primary-nav { display: flex; align-items: center; gap: 1.75rem; flex-wrap: wrap; }
-.nav-group { display: flex; flex-direction: column; position: relative; }
+.primary-nav { display: flex; align-items: center; gap: 0.25rem; flex-wrap: wrap; }
+.nav-group { position: relative; }
 .nav-group-label {
-  font-family: var(--font-mono); font-size: 0.62rem; letter-spacing: 0.1em;
-  color: var(--parchment-dim); text-transform: uppercase; margin-bottom: 0.15rem;
+  font-family: var(--font-mono); font-size: 0.72rem; letter-spacing: 0.08em;
+  color: var(--parchment); text-transform: uppercase;
+  background: none; border: none; cursor: pointer;
+  padding: 0.6em 0.9em; display: flex; align-items: center; gap: 0.4em;
+  transition: color 0.15s ease;
 }
-.nav-group a, .nav-standalone {
-  font-size: 0.88rem; color: var(--parchment); text-decoration: none; padding: 0.1rem 0;
+.nav-group-label::after {
+  content: "▾"; font-size: 0.7em; color: var(--parchment-dim); transition: transform 0.15s ease;
 }
-.nav-group a:hover, .nav-standalone:hover { color: var(--wyrd-cyan); }
-.nav-standalone { font-family: var(--font-mono); text-transform: uppercase; font-size: 0.75rem; letter-spacing: 0.05em; align-self: center; }
+.nav-group-label:hover { color: var(--wyrd-cyan); }
+.nav-group.is-open .nav-group-label { color: var(--wyrd-cyan); }
+.nav-group.is-open .nav-group-label::after { transform: rotate(180deg); }
+
+.nav-dropdown {
+  position: absolute; top: 100%; left: 0; min-width: 220px; z-index: 30;
+  background: var(--ink-soft); border: 1px solid var(--border);
+  display: flex; flex-direction: column; padding: 0.4em 0;
+  box-shadow: 0 12px 30px rgba(0,0,0,0.4);
+  opacity: 0; visibility: hidden; transform: translateY(-6px);
+  transition: opacity 0.15s ease, transform 0.15s ease, visibility 0.15s ease;
+}
+.nav-group.is-open .nav-dropdown,
+.nav-group:hover .nav-dropdown,
+.nav-group:focus-within .nav-dropdown {
+  opacity: 1; visibility: visible; transform: translateY(0);
+}
+.nav-dropdown a {
+  font-size: 0.88rem; color: var(--parchment); text-decoration: none;
+  padding: 0.55em 1.1em; white-space: nowrap;
+}
+.nav-dropdown a:hover { background: var(--ink); color: var(--wyrd-cyan); }
+
+.nav-standalone {
+  font-family: var(--font-mono); text-transform: uppercase; font-size: 0.72rem;
+  letter-spacing: 0.05em; color: var(--parchment); text-decoration: none;
+  padding: 0.6em 0.9em;
+}
+.nav-standalone:hover { color: var(--wyrd-cyan); }
 
 .nav-toggle { display: none; }
 
@@ -503,8 +533,22 @@ body::before {
   .primary-nav {
     display: none; position: absolute; top: 100%; left: 0; right: 0;
     background: var(--ink); border-bottom: 1px solid var(--border);
-    flex-direction: column; align-items: flex-start; padding: 1rem 1.5rem 1.5rem; gap: 1.2rem;
+    flex-direction: column; align-items: stretch; padding: 1rem 1.5rem 1.5rem; gap: 0.4rem;
   }
   .primary-nav.is-open { display: flex; }
-  .nav-standalone { align-self: flex-start; }
+  .nav-standalone { align-self: flex-start; padding: 0.6em 0; }
+
+  /* On mobile, dropdowns become inline expandable sections rather than
+     floating panels — the hamburger menu is already a full-screen list,
+     so a second layer of floating dropdowns would be awkward to use. */
+  .nav-group-label { width: 100%; padding: 0.6em 0; justify-content: space-between; }
+  .nav-dropdown {
+    position: static; opacity: 1; visibility: visible; transform: none;
+    box-shadow: none; border: none; background: none;
+    max-height: 0; overflow: hidden; padding: 0;
+    transition: max-height 0.2s ease;
+  }
+  .nav-group.is-open .nav-dropdown { max-height: 400px; padding: 0.2em 0 0.6em; }
+  .nav-dropdown a { padding: 0.5em 0 0.5em 1em; }
 }
+

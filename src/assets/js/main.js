@@ -10,7 +10,42 @@ document.addEventListener("DOMContentLoaded", function () {
 
   buildDossierSections();
   initSearch();
+  initNavDropdowns();
 });
+
+function initNavDropdowns() {
+  var groups = document.querySelectorAll("[data-nav-group]");
+  if (!groups.length) return;
+
+  function closeAll(except) {
+    groups.forEach(function (g) {
+      if (g === except) return;
+      g.classList.remove("is-open");
+      var btn = g.querySelector(".nav-group-label");
+      if (btn) btn.setAttribute("aria-expanded", "false");
+    });
+  }
+
+  groups.forEach(function (group) {
+    var btn = group.querySelector(".nav-group-label");
+    if (!btn) return;
+    btn.addEventListener("click", function (e) {
+      e.stopPropagation();
+      var isOpen = group.classList.contains("is-open");
+      closeAll(group);
+      group.classList.toggle("is-open", !isOpen);
+      btn.setAttribute("aria-expanded", isOpen ? "false" : "true");
+    });
+  });
+
+  document.addEventListener("click", function () {
+    closeAll(null);
+  });
+
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "Escape") closeAll(null);
+  });
+}
 
 function initSearch() {
   var btn = document.getElementById("search-toggle");
