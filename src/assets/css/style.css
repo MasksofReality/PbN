@@ -35,6 +35,17 @@
 .splat-half-damned { --accent: var(--splat-half-damned); }
 
 * { box-sizing: border-box; }
+
+button {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background: none;
+  border: none;
+  font-family: inherit;
+  color: inherit;
+  margin: 0;
+}
 html { scroll-behavior: smooth; }
 
 body {
