@@ -51,6 +51,11 @@ npm run build
 
 - **`/contact/` page doesn't exist yet.** The footer has a "Contact the Staff" link pointing to `/contact/`, left over from the original site plan — this 404s until that page is built. Worth building or removing before Grand Opening.
 
+- **Events calendar isn't connected yet.** `src/the-sim/events.md` has a Google Calendar embed ready to go, but it's pointing at a placeholder. Once your calendar exists:
+  1. Search for `GOOGLE_CALENDAR_EMBED_URL_HERE` in `src/the-sim/events.md` and replace it with your real embed URL (Google Calendar → Settings → your calendar → Integrate calendar → copy the iframe's `src` value).
+  2. Delete the `<div class="calendar-pending">...</div>` block right below the iframe — it's just a "not live yet" placeholder message.
+  3. Also worth finalizing the "Submitting an Event" section on that page — it currently has a generic placeholder process (post in Discord).
+
 ## Resolved
 
 - **Timeline date discrepancy (resolved):** the Basilica's founding year differed between the World Bible (100 TE) and the Mortal Timeline doc (115 TE). Per the "most recent doc wins" rule, the World Bible (modified 6/28) is newer than the Mortal Timeline (last modified 3/26), so the site uses 100 TE. Worth updating the Mortal Timeline doc itself to match, since it still says 115 TE.
