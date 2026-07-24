@@ -7,12 +7,12 @@ eyebrow: The Sim
 Two frequencies. Two ways in. Both lead to the same city.
 
 <div class="connect-grid">
-  <a class="connect-card" href="#DISCORD_INVITE_LINK_HERE" target="_blank" rel="noopener">
+  <a class="connect-card" href="https://discord.gg/pF6AzSeFnG" target="_blank" rel="noopener">
     <span class="connect-label">Frequency One</span>
     <span class="connect-name">Discord</span>
     <span class="connect-desc">Where the staff, the lore discussion, the OOC chatter, and the scheduling actually happen. Start here.</span>
   </a>
-  <a class="connect-card" href="#SL_LANDING_POINT_HERE" target="_blank" rel="noopener">
+  <a class="connect-card" href="http://maps.secondlife.com/secondlife/Adorkable/225/38/3010" target="_blank" rel="noopener">
     <span class="connect-label">Frequency Two</span>
     <span class="connect-name">Second Life Landing Point</span>
     <span class="connect-desc">Where the city itself lives. Teleport in once you've read the essentials below.</span>
