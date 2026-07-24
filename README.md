@@ -56,6 +56,15 @@ npm run build
   2. Delete the `<div class="calendar-pending">...</div>` block right below the iframe — it's just a "not live yet" placeholder message.
   3. Also worth finalizing the "Submitting an Event" section on that page — it currently has a generic placeholder process (post in Discord).
 
+## On the Horizon
+
+Not built yet, no immediate action needed — just tracked here so they don't get lost between sessions.
+
+- **Custom icon set (commissioned).** A basic original icon set exists for the 8 main splats and the Vampire bloodline family (SVG, in `src/assets/icons/` if pulled in) as a placeholder/proof of concept. Kai is reaching out to an artist for a proper bespoke set — once that art exists, it should replace the placeholder icons across the Denizens pages and the homepage grid.
+- **Business page.** A directory of sim businesses — description of each, plus who's the point of contact (NPC or PC) to reach for that business. Will likely want cross-links from the Factions page and/or the Denizens pages, since businesses will probably tie into faction territory/economy. No page structure built yet.
+- **Sim map.** Kai is considering a satellite-image-style map of Basilica Purgatory showing shop/business locations — likely paired with the Business page above once both exist. Not yet scoped; will need an actual map image/asset and a decision on whether locations are static labels or interactive clickable pins.
+- **FAQ page — decided against, for now.** Kai wants to keep frequently-asked-question content live in Discord instead of a static page, since Discord can stay current in real time and a static FAQ page would just go stale. Revisit only if that changes.
+
 ## Resolved
 
 - **Timeline date discrepancy (resolved):** the Basilica's founding year differed between the World Bible (100 TE) and the Mortal Timeline doc (115 TE). Per the "most recent doc wins" rule, the World Bible (modified 6/28) is newer than the Mortal Timeline (last modified 3/26), so the site uses 100 TE. Worth updating the Mortal Timeline doc itself to match, since it still says 115 TE.

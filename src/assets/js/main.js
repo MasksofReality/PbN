@@ -11,7 +11,73 @@ document.addEventListener("DOMContentLoaded", function () {
   buildDossierSections();
   initSearch();
   initNavDropdowns();
+  initBootSequence();
 });
+
+function initBootSequence() {
+  var overlay = document.getElementById("boot-overlay");
+  var linesEl = document.getElementById("boot-lines");
+  var skipBtn = document.getElementById("boot-skip");
+  if (!overlay || !linesEl || !skipBtn) return;
+
+  // Only play once per browser session — replaying this every time someone
+  // clicks back to the homepage from a denizen page would get old fast.
+  if (sessionStorage.getItem("bootSequenceSeen")) {
+    overlay.hidden = true;
+    return;
+  }
+
+  var BOOT = [
+    { t: "GOD-MACHINE CONSENSUS ARCHIVE SYSTEM  v.2078.09.REBUILD", c: "amber" },
+    { t: "COPYRIGHT 2278 CE :: THE INFRASTRUCTURE :: ALL RIGHTS ASSIMILATED", c: "dim" },
+    { t: "", c: "dim" },
+    { t: "POST-SUNDERING REBUILD SEQUENCE INITIATED...................", c: "dim" },
+    { t: "MEMORY BANKS ONLINE.................................................[OK]", c: "p" },
+    { t: "LOADING CONSENSUS NODE: BASILICA_PURGATORY...................[OK]", c: "p" },
+    { t: "SYNCHRONIZING LOCAL REALITY MATRIX...........................[OK]", c: "p" },
+    { t: "MAPPING INFRASTRUCTURE GEARS.................................[7,203]", c: "p" },
+    { t: "SCANNING ANOMALOUS ENTITY SIGNATURES.........................[2,847]", c: "p" },
+    { t: "SUPERNATURAL DENSITY: [##############----]  EXTREME :: LEVEL 9", c: "p" },
+    { t: "VEIL STATUS: ACTIVE :: INTEGRITY MONITORED  [YEAR 200 TE / 2278 CE]", c: "amber" },
+    { t: "", c: "dim" },
+    { t: "!! NOTICE: MULTIPLE APEX-CLASS ENTITIES IN NODE PROXIMITY", c: "red" },
+    { t: "!! NOTICE: FIVE FACTIONS MAINTAINING FRAGILE ORDER", c: "red" },
+    { t: "!! NOTICE: VEIL KEEPERS REPORT ELEVATED EXPOSURE RISK", c: "red" },
+    { t: "", c: "dim" },
+    { t: "OPERATOR CLEARANCE: CIVILIAN  |  READ-ONLY ACCESS GRANTED", c: "dim" },
+    { t: "────────────────────────────────────────────────────────────", c: "dim" },
+    { t: "ACCESS GRANTED.", c: "amber" },
+    { t: "WELCOME TO PURGATORY.", c: "bright" },
+  ];
+
+  var colorMap = {
+    amber: "var(--wyrd-amber)",
+    dim: "var(--parchment-dim)",
+    p: "var(--parchment)",
+    red: "var(--wyrd-magenta)",
+    bright: "var(--bright)",
+  };
+
+  function finish() {
+    sessionStorage.setItem("bootSequenceSeen", "1");
+    overlay.hidden = true;
+  }
+
+  skipBtn.addEventListener("click", finish);
+
+  var delay = 0;
+  BOOT.forEach(function (line, i) {
+    var div = document.createElement("div");
+    div.textContent = line.t || "\u00A0";
+    div.style.color = colorMap[line.c] || colorMap.dim;
+    div.style.animationDelay = delay + "ms";
+    linesEl.appendChild(div);
+    delay += line.t ? 90 : 40;
+  });
+
+  // Auto-dismiss shortly after the last line lands.
+  setTimeout(finish, delay + 900);
+}
 
 function initNavDropdowns() {
   var groups = document.querySelectorAll("[data-nav-group]");
