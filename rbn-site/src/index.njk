@@ -1,0 +1,150 @@
+---
+layout: layouts/base.njk
+title: Home
+---
+<div class="boot-overlay" id="boot-overlay">
+  <div class="boot-lines" id="boot-lines"></div>
+  <button type="button" class="boot-skip" id="boot-skip">[ SKIP BOOT SEQUENCE ]</button>
+</div>
+
+<section class="hero">
+  <div class="terminal-grid-bg" aria-hidden="true"></div>
+  <div class="hero-inner">
+    <div class="terminal-window">
+      <div class="terminal-titlebar">
+        <span>GOD-MACHINE CONSENSUS ARCHIVE :: NODE: BASILICA_PURGATORY :: READ-ONLY</span>
+        <div class="terminal-titlebar-controls">
+          <span>_</span><span>□</span><span>✕</span>
+        </div>
+      </div>
+      <div class="terminal-window-body">
+        <p class="hero-meta">Basilica Purgatory · Year 200 TE (2278 CE)</p>
+        <h1>The city of eternal nights, <span class="text-neon">of neon lights</span>, <span class="text-ominous">of shadowed frights.<span class="drip" style="left: 18%; animation-delay: 0.3s;"></span><span class="drip" style="left: 52%; animation-delay: 2s;"></span><span class="drip" style="left: 79%; animation-delay: 1.1s;"></span></span></h1>
+        <p class="hero-lede">
+          A homebrewed World of Darkness roleplay chronicle, played in Second Life.
+          Two centuries after the Sundering, humanity survives behind the walls of
+          the Basilicas — and the things that hide among them survive too.
+        </p>
+        <div class="hero-cta">
+          <a class="btn" href="/the-sim/welcome/">Enter the Sim</a>
+          <a class="btn btn--ghost" href="/character-creation/">Create a Character</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="registry-section">
+  <p class="terminal-query">C:\GOD-MACHINE\ARCHIVE&gt; <span>SELECT * FROM entity_registry WHERE node = "BASILICA_PURGATORY";</span></p>
+  <p class="section-label">Entity Registry — Denizens of the Basilica</p>
+
+  <div class="entity-grid">
+    <a class="entity-card" href="/denizens/vampire/" style="--entity-color: #cc2222;">
+      <div class="entity-card-head"><span class="entity-id">ENT-001-V</span><span class="entity-status">ACTIVE</span></div>
+      <h3 class="entity-name">Vampire</h3>
+      <p class="entity-class">APEX PREDATOR :: UNDEAD</p>
+      <p class="entity-desc">The Undying. Sovereigns of the long night, bound by blood and the ancient laws of their kind.</p>
+      <p class="threat-bar">THREAT: <span class="filled">██████████</span> <span class="empty">░░░░░░░░░░</span> EXTREME</p>
+    </a>
+    <a class="entity-card" href="/denizens/werewolf/" style="--entity-color: #3d7a20;">
+      <div class="entity-card-head"><span class="entity-id">ENT-002-W</span><span class="entity-status">ACTIVE</span></div>
+      <h3 class="entity-name">Werewolf</h3>
+      <p class="entity-class">FLESH-CHANGER :: SPIRIT-WALKER</p>
+      <p class="entity-desc">Warriors who walk the boundary between the physical and the unseen. The city's wounds are their wounds.</p>
+      <p class="threat-bar">THREAT: <span class="filled">█████████░</span> <span class="empty">░░░░░░░░░░</span> CRITICAL</p>
+    </a>
+    <a class="entity-card" href="/denizens/lost/" style="--entity-color: #2a6a8a;">
+      <div class="entity-card-head"><span class="entity-id">ENT-003-L</span><span class="entity-status">ACTIVE</span></div>
+      <h3 class="entity-name">Lost</h3>
+      <p class="entity-class">FAE-TOUCHED :: RETURNED</p>
+      <p class="entity-desc">Stolen by powers older than the God-Machine and returned bearing things they were never meant to carry.</p>
+      <p class="threat-bar">THREAT: <span class="filled">██████░░░░</span> <span class="empty">░░░░░░░░░░</span> HIGH</p>
+    </a>
+    <a class="entity-card" href="/denizens/hellion/" style="--entity-color: #8a3a10;">
+      <div class="entity-card-head"><span class="entity-id">ENT-004-H</span><span class="entity-status">ACTIVE</span></div>
+      <h3 class="entity-name">Hellion</h3>
+      <p class="entity-class">INFERNAL-BORN :: SUB-MACHINE AGENT</p>
+      <p class="entity-desc">They carry fire from below the broken earth in their veins. Demons or survivors — the God-Machine has flagged this unresolved.</p>
+      <p class="threat-bar">THREAT: <span class="filled">████████░░</span> <span class="empty">░░░░░░░░░░</span> SEVERE</p>
+    </a>
+    <a class="entity-card" href="/denizens/gifted/" style="--entity-color: #6b23a0;">
+      <div class="entity-card-head"><span class="entity-id">ENT-005-G</span><span class="entity-status">ACTIVE</span></div>
+      <h3 class="entity-name">Gifted</h3>
+      <p class="entity-class">AWAKENED :: CONSENSUS-HOSTILE</p>
+      <p class="entity-desc">When the world shattered, the walls between what is real and what is possible cracked with it. The God-Machine monitors them closely.</p>
+      <p class="threat-bar">THREAT: <span class="filled">█████████░</span> <span class="empty">░░░░░░░░░░</span> CRITICAL</p>
+    </a>
+    <a class="entity-card" href="/denizens/mortals/" style="--entity-color: #6b6b4a;">
+      <div class="entity-card-head"><span class="entity-id">ENT-006-M</span><span class="entity-status">ACTIVE</span></div>
+      <h3 class="entity-name">Mortals</h3>
+      <p class="entity-class">BASELINE :: CONSENSUS ANCHOR</p>
+      <p class="entity-desc">No gifts. No curses beyond the ordinary ones. Just will, and wit, and the absolute refusal to become prey.</p>
+      <p class="threat-bar">THREAT: <span class="filled">██░░░░░░░░</span> <span class="empty">░░░░░░░░░░</span> LOW</p>
+    </a>
+    <a class="entity-card" href="/denizens/hunter/" style="--entity-color: #7a5520;">
+      <div class="entity-card-head"><span class="entity-id">ENT-007-HN</span><span class="entity-status">ACTIVE</span></div>
+      <h3 class="entity-name">Hunter</h3>
+      <p class="entity-class">IMBUED :: APPROVED AUTONOMOUS AGENT</p>
+      <p class="entity-desc">Someone decided they should know the truth and be capable of acting on it. They carry that weight.</p>
+      <p class="threat-bar">THREAT: <span class="filled">███████░░░</span> <span class="empty">░░░░░░░░░░</span> HIGH</p>
+    </a>
+    <a class="entity-card" href="/denizens/half-damned/" style="--entity-color: #5a1a5a;">
+      <div class="entity-card-head"><span class="entity-id">ENT-008-HD</span><span class="entity-status">ACTIVE</span></div>
+      <h3 class="entity-name">Half-Damned</h3>
+      <p class="entity-class">DHAMPIR :: LIMINAL ENTITY</p>
+      <p class="entity-desc">Born between death and life. The God-Machine's models cannot reliably classify them. Classification: PENDING.</p>
+      <p class="threat-bar">THREAT: <span class="filled">███████░░░</span> <span class="empty">░░░░░░░░░░</span> HIGH</p>
+    </a>
+  </div>
+</section>
+
+<section class="access-section">
+  <p class="terminal-query">C:\GOD-MACHINE\ARCHIVE&gt; <span>DIR /access_points</span></p>
+
+  <div class="access-grid">
+    <div class="access-card">
+      <div class="access-card-head"><span class="access-dir">THE_SIM/</span></div>
+      <p class="access-sub">ENTER BASILICA PURGATORY</p>
+      <p class="access-body">Step into a living city in Second Life. Explore the ruins of what was, navigate the politics of what remains, and find your place among the survivors of the Sundering.</p>
+      <div class="access-links">
+        <a href="/the-sim/welcome/">&gt; Welcome</a>
+        <a href="/the-sim/rules-of-engagement/">&gt; Rules</a>
+        <a href="/the-sim/join-us/">&gt; Join Us</a>
+        <a href="/the-sim/events/">&gt; Events</a>
+      </div>
+    </div>
+    <div class="access-card">
+      <div class="access-card-head"><span class="access-dir">THE_WORLD/</span><span class="access-flag">RESTRICTED</span></div>
+      <p class="access-sub">200 YEARS AFTER THE SUNDERING</p>
+      <p class="access-body">The Sundering unmade civilization in decades, not days. What grew back in the dark is stranger than anything that came before. The God-Machine's records are incomplete.</p>
+      <div class="access-links">
+        <a href="/the-world/world-bible/">&gt; World Bible</a>
+        <a href="/the-world/timeline/">&gt; Timeline</a>
+        <a href="/the-world/glossary/">&gt; Glossary</a>
+      </div>
+    </div>
+    <div class="access-card">
+      <div class="access-card-head"><span class="access-dir">CHAR_CREATE/</span></div>
+      <p class="access-sub">BECOME SOMEONE NEW</p>
+      <p class="access-body">Choose your lineage, your burdens, your ambitions. The system is rooted in World of Darkness and shaped by a living chronicle. The God-Machine has classified your choices.</p>
+      <div class="access-links">
+        <a href="/character-creation/">&gt; The Guide</a>
+        <a href="/the-world/merits-and-flaws/">&gt; Merits & Flaws</a>
+        <a href="/the-world/natures-and-demeanors/">&gt; Natures & Demeanors</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="closing-cta">
+  <div class="closing-cta-glow" aria-hidden="true"></div>
+  <div class="closing-cta-inner">
+    <p class="closing-cta-flag">!! END OF AUTOMATED RECORD :: OPERATOR INTERVENTION DETECTED !!</p>
+    <h2 class="closing-cta-title">THE NIGHT AWAITS.<br><span class="closing-cta-amber">ARE YOU READY?</span></h2>
+    <p class="closing-cta-lede">Find your people. Claim your character. Step into a story that has been running for years — and will remember that you were part of it. The God-Machine is watching.</p>
+    <div class="hero-cta">
+      <a class="btn" href="#DISCORD_INVITE_LINK_HERE" target="_blank" rel="noopener">[ JOIN ON DISCORD ]</a>
+      <a class="btn btn--ghost" href="#SL_LANDING_POINT_HERE" target="_blank" rel="noopener">[ SECOND LIFE LANDING ]</a>
+    </div>
+  </div>
+</section>

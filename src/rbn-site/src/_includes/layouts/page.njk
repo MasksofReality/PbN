@@ -1,0 +1,10 @@
+---
+layout: layouts/base.njk
+---
+<article class="page page--simple">
+  <div class="page-inner">
+    <h1>{{ title }}</h1>
+    {% if eyebrow %}<p class="eyebrow">{{ eyebrow }}</p>{% endif %}
+    {{ content | safe }}
+  </div>
+</article>
