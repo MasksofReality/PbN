@@ -6,45 +6,73 @@ clearance: PUBLIC
 eyebrow: The World
 ---
 
-History in Purgatory by Night exists in layers. What humans know is partial and rationalized by the Consensus. What supernaturals know is fuller, filtered through two centuries of oral tradition and political agenda. The current year is **200 TE (2278 CE)**.
+**A note for players:** This bible covers the *public* face of the world: its history, its cities, its rules, and its politics as they are commonly understood. Supernatural characters may know deeper cosmological truths appropriate to their nature; if you’re playing one, work with staff and your splat resources on what your character actually knows.
 
-<div class="callout callout--rare">
-<strong>A note for staff:</strong> the source timeline documents disagree on a few specific dates (e.g. the founding of Basilica Purgatory is given as both 100 TE and 115 TE in different docs). This page follows the World Bible's dates. Worth a pass to reconcile the source docs so new lore doesn't inherit the mismatch.
-</div>
+**On Dates:** *the setting uses the **Third Era (TE)** calendar as its in-world standard, with rough CE equivalents. TE dates are authoritative. Present day is **200 TE.***
 
-## The Road to the End (CE)
+---
 
-| Date | Event |
-|---|---|
-| 2025 CE | **Fall of Clan Tremere.** The Vienna headquarters of Clan Tremere is raided; the clan collapses — the first major supernatural institution to fall to human technological advancement. |
-| 2033–2050 CE | **The Cyber Revolution.** A massive, anonymous leak of advanced technology and science reshapes computing, AI, robotics, and cybernetics almost overnight. |
-| 2037 CE | **The Gehenna War Begins.** Elder Vampires worldwide are drawn to the Middle East, falling into conflict over the ruins of Megiddo. |
-| 2041 CE | **Atean Syndrome.** The Dreaming, overwhelmed by banality, seals off its power. Fae beings die en masse. Humanity suffers a global epidemic of insomnia, lost creativity, and nihilistic despair. |
-| 2047 CE | **The RedDawn Supervirus / The Crash of '47.** A weaponized computer virus corrupts global trade markets, triggering a worldwide depression. |
-| 2060–2068 CE | **The War of Ruination (World War Three).** A tangled web of corporate alliances and defense pacts drags the developed world into humanity's first and only nuclear war. |
-| 2068 CE | **The Sundering Begins.** Los Angeles is erased outright. A chain reaction of hyperextreme weather, volcanic and tectonic catastrophe, and rising oceans follows for two decades. |
-| 2068 CE | **Death of Gaia the Elder.** All Changing Breeds vanish with her; the ecosystem collapses in a mass extinction. |
-| 2071 CE | **The Return of Caine.** Caine ends the Gehenna War, destroys the Methuselahs and Antediluvians, then leaps into Oblivion. Lilith intervenes, offering every vampire rebirth as Lilum. |
-| 2074 CE | **Luna's Sacrifice.** Luna binds the Wyrm into an enchanted slumber at the cost of her own freedom, and vanishes from the sky. |
-| 2074 CE | **The Great Wyrdstorm.** With Gaia and Luna gone, the Dreaming's repressed energies erupt across the earth — the source of most anomalies that still plague the world. |
+## 1\. The Premise
 
-## The Turning Point — 0 TE
+**TL;DR:** *It’s **200 TE** (roughly the mid-23rd century CE). The old world died slowly and painfully, and no god arrived to stop it. Humanity survives in fortified city-states called **Basilicas**, protected by magic and surrounded by monster-infested wilds. Nightfolk live hidden: and, since the Masquerade fell, openly registered: among them. This isn’t the story of the apocalypse; It’s the story of the people living in the half drowned world it left behind.*
 
-**Eshtarra's Ascension.** Gaia the Elder's herald harnesses the raw possibility of the Great Wyrdstorm and ascends to become Gaia the Younger — the first and only spirit to reach Celestine rank. She remakes the Garou as the Gaian Shifters and restores what remains of humanity.
+The end of the world was neither quick nor merciful: it took **decades** to die, and then the world kept turning anyway. Humanity no longer dominates the planet. It shares the ruins with **aberrations** and resurrected prehistoric predators.
 
-**The Initialization of the God-Machine.** In the same year, the God-Machine comes online, announcing itself to the surviving supernaturals and decreeing that humanity's new Consensus reality must be upheld.
+Survival now rests on the old reliables: **strength in numbers, tall walls, and stubborn will.** The nations of the old world are gone. In their place stand the **Basilicas**: fortified city-state metropolises, the only places humanity can truly live and grow. Between one Basilica and the next, the land is wild and deadly. People born outside the walls will sell *everything*: down to their souls: for a chance to live inside them.
 
-## Building the Basilicas (Third Era)
+**Population:** No more than **500 million** worldwide: A mere **5%** of humanity’s ancient peak.
 
-| Date (TE / CE) | Event |
-|---|---|
-| 0–103 TE (2078–2181 CE) | **The Neobedouin Period.** Humanity gathers into wandering caravan tribes. Omega Crates begin falling from orbit. |
-| 75–103 TE (2153–2181 CE) | **Discovery of the Reality Anchors.** Ancient obelisks are found to deflect Wyrdstorms and enable long-range communication. |
-| 100 TE (2178 CE) | **Founding of Basilica Purgatory.** A Neobedouin shepherd's proximity activates the dormant Obelisk beneath the sunken ruins of San Francisco. |
-| 103–157 TE (2181–2235 CE) | **The Reconstruction.** The fifteen Basilicas are founded and built. |
-| 135 TE (2213 CE) | **Destruction of Basilica Jayabaya.** Other Basilicas' refusal to send aid during a siege is credited as the deciding factor. |
-| 140 TE (2218 CE) | **The Basilican League & Shadow Directorate Founded.** In Jayabaya's wake, the fourteen remaining Basilicas formalize relations. |
-| 152 TE (2230 CE) | **The Hedge Isles Stabilize.** The Isle of Purgatory anchors permanently off the coast. |
-| 200 TE (2278 CE) | **The Present Day.** The sim begins. |
+---
+
+## 2\. How The World Ended
+
+**TL;DR:** *Humanity blames itself, and largely rightly: economic collapse, followed by corporate wars that became a nuclear world war. Survivors wandered the ruins of the old world for a century before learning the magic that let cities exist again.*
+
+Modern humans view the Old World with awe *and* disgust—a civilization that held the power to solve all its ills and yet squandered it on petty feuds. The collapse, as it is taught, unfolded like this:
+
+* The **Crash of ’47**: the RedDawn Supervirus wrecked global markets and triggered a worldwide depression.  
+* Megacorporations and puppet nations fought over what remained, escalating into **The War of Ruination** (World War III) and, ultimately, mutually-assured nuclear destruction.  
+* The **Sundering** followed: decades of buckling land, rising seas, and choking superstorms as reality itself began to come apart.  
+* The **Lost Decade** brought a mass extinction and the first appearance of **anomalies** (environmental hazards) and **aberrants** (predatory monsters).  
+  * Human survival through this period is a genuine mystery: scarce accounts even describe a “time slip”straight into the aftermath.  
+* Survivors wandered as caravan-tribes for roughly a century before learning to build the Basilicas.
+
+---
+
+## 3\. Timeline
+
+**TL;DR:** *Old-world collapse (2020s–2088 CE) → reality nearly ends (the Sundering) → the calendar resets to the **Third Era (0 TE)** → humanity wanders, then discovers the magic that lets cities exist again → the Basilicas rise, organize, and endure. Present day is **200 TE.***
+
+### **The Old World Collapses *(CE)***
+
+### 
+
+| Event | \~Date | Summary |
+| :---: | :---: | ----- |
+| **Cyber Revolution** | 2033–50 CE | A massive cache of advanced blueprints appears, triggering a boom in AI, robotics, and cybernetics. |
+| **Pantox “Prosperity Union”** | 2045 CE | The multinational **Pantox Group** effectively merges with China’s government, becoming a superpower unto itself. |
+| **Crash of ’47** | 2047 CE | Runaway automation triggers a boom, then a catastrophic bust and mass unemployment. |
+| **The Ennead Coup** | 2048–2050 CE | Nine megacorporations form **EG Corp**, which declares itself a sovereign entity rivaling nations. |
+| **The War of Ruination (WWIII)** | 2050–2088 CE | China (via Pantox) vs. EG Corp and the US spirals into global war. Around 2080 CE, NATO unleashes its nuclear arsenal. Roughly **half of humanity dies**: most of preventable causes stemming from the collapse of vital infrastructure. |
+| **The Sundering** | 2068–2088 CE | A chain reaction that nearly destroyed the planet began in the vast crater that was Los Angeles. Details are speculation at best; no witness survived to tell the tale. Blame varies: an Old World superweapon, powerful ancient magic gone wrong, or even divine wrath. The land buckled and every volcano erupted at once as the land groaned in tectonic agony, its coasts lashed by superstorms as sea levels rapidly rose hundreds of meters to their present depth. |
+| **The Interstice  (“The Blank Decade”)** | 2068–2078 CE | And evidence of human activity ceases for ten years. The few humans who come out unscathed on the other end find themselves standing in the aftermath of the ruined world with a decade of lost time to account for. |
+
+### **The Third Era Begins *(TE / CE)***
+
+### 
+
+| Event | Date | Summary |
+| :---: | :---: | ----- |
+| **The Itinerant Period** | 0–103 TE (2078-2181 CE) | Humanity’s remnants gather into tribal caravans which wander the half drowned ruins of the Old World. Attempted settlements rise and fall within a year, destroyed by raiders as often as aberrants. **Sorcerers** prove invaluable against the eldritch echoes of the Sundering: many rise from initial scorn and fear to become honored advisors or outright rulers of their tribes. |
+| **Discovery of the Hearthbind Ritual** | 75 TE | Sorcerers in Mexico create the first **Hearthstone**, a node of power that holds a zone of magical protection: founding the first Basilica, **New Tenochtitlan.** |
+| **The Reconstruction** | 103–157 TE | Hearthbinding spreads worldwide. The **18 Great Bastions** are founded, and the first fragile trade alliances of the New World form. |
+| **The Creation of Paratech** | 115 TE | Sheltered artisan-sorcerers (**Artificers**) learn to layer enchantments to mimic old-world technology, powered by **leystone.** This births the vital economy of *stormchasers* and *aberrant hunters.* |
+| **The Wandering Isle Opens / The Second Masquerade** | 122 TE | The **Wandering Isle** reveals itself as neutral ground, and is quickly accepted as the 19th Basilica in trade for its exotic resources. The supernatural **Shadow Directorate** forms and its elders decree the **Second Masquerade**: all Nightfolk must hide their nature, on pain of death. |
+| **Fall of Mount Hagen** | 130 TE | The Hag-Queen **Rangda** besieges the Melanesian Basilica of Mount Hagen. Abandoned by its self absorbed peers, it falls after a three-year siege and becomes a hellish place where humans are raised as livestock. |
+| **The Basilican League  is Founded** | 131 TE | Terrified by Mount Hagen’s fate, the 18 remaining Bastions formalize relations. Bound by pacts of mutual defense and cooperation the League becomes the basis of global trade and currency, with an annual meeting hosted by each of the Basilicas by year of founding in a rotating cycle. |
+| **The Second Masquerade Ends Abruptly** | 153 TE | The Shadow Directorate reveals the Nightfolk living among Humanity to the Basilican League at its annual meeting. Panic and “monster hunts”kill \~6,000 Nightfolk and roughly *four times as many humans* before the Basilicas crack down. Thus begins the **Ascendancy of Man**: a period of pervasive anti-supernatural discrimination. |
+| **The Awakened Censure Act Passes Unanimously** | 177 TE | Mages are blamed for the Sundering and aiding Rangda in the fall of Mount Hagen. **Awakened humans are taken away to undisclosed prisons** “for the public good”. |
+| **Ascendancy Ends Pax Eldritus Ratified** | 180 TE | A new generation, led by the empathetic scions of the wealthy Sorcerer Clans, negotiates the abolition of all Ascendancy laws in the **Pax Eldritus.** The Shadow Directorate is formally recognized as co-equal to the League Council. |
+| **Present Day** | **200 TE (2278 CE)** | **The sim begins.** |
 
 <p class="eyebrow">Related: <a href="/the-world/world-bible/">World Bible</a> · <a href="/the-world/glossary/">Glossary</a></p>
