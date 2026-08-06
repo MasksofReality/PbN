@@ -43,6 +43,9 @@ npm run build
 
 ## Known open items
 
+- **Basilica Purgatory's origin story conflict.** The Welcome page (updated from `_FINISHED__RbN_Welcome_Rules.docx`) now describes Basilica Purgatory as "a city-state fused with a piece of fallen Hedge Gate to become the Wandering Isle." This contradicts the World Bible and Glossary pages, which describe it as built on the sunken ruins of San Francisco, with a separate nearby "Isle of Purgatory." A callout on the Welcome page flags this for staff. Needs a canon decision and a pass through World Bible / Glossary / Timeline to reconcile, since those weren't touched by this update.
+- **"Rules of Engagement" renamed to "Community Rules."** URL changed from `/the-sim/rules-of-engagement/` to `/the-sim/community-rules/`. Every internal link and the nav were updated to match — if you find an old link to the previous URL anywhere (e.g. pasted in Discord), it'll 404 and needs updating to the new one.
+
 - **Discord & SL landing point links are placeholders.** Once you have the real URLs, replace them in these two spots:
   1. `src/_includes/layouts/base.njk` — search for `#DISCORD_INVITE_LINK_HERE` and `#SL_LANDING_POINT_HERE` (footer, appears on every page)
   2. `src/the-sim/join-us.md` — search for the same two placeholder strings (the two big connect cards)
