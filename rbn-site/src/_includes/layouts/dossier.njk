@@ -1,0 +1,20 @@
+---
+layout: layouts/base.njk
+---
+<article class="page page--dossier{% if splat %} splat-{{ splat }}{% endif %}">
+  <div class="dossier-header">
+    <div class="dossier-meta">
+      <span class="dossier-tag">DESIGNATION: {{ designation or "UNFILED" }}</span>
+      <span class="dossier-tag">CLEARANCE: {{ clearance or "PUBLIC" }}</span>
+      <span class="dossier-tag">ARCHIVE: BASILICA PURGATORY</span>
+    </div>
+    <h1>{{ title }}</h1>
+    {% if eyebrow %}<p class="eyebrow">{{ eyebrow }}</p>{% endif %}
+  </div>
+  <div class="dossier-layout">
+    <nav class="dossier-toc" id="dossier-toc" aria-label="Section navigation" hidden></nav>
+    <div class="dossier-body" id="dossier-body">
+      {{ content | safe }}
+    </div>
+  </div>
+</article>

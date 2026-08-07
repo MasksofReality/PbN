@@ -1,0 +1,9 @@
+---
+permalink: /search-index.json
+eleventyExcludeFromCollections: true
+---
+[
+{%- for page in collections.searchable -%}
+{"title": {{ page.data.title | jsonStringify | safe }}, "eyebrow": {{ page.data.eyebrow | jsonStringify | safe }}, "designation": {{ page.data.designation | jsonStringify | safe }}, "url": {{ page.url | jsonStringify | safe }}}{% if not loop.last %},{% endif %}
+{%- endfor -%}
+]
