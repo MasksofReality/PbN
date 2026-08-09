@@ -1,7 +1,7 @@
 ---
 layout: layouts/dossier.njk
-title: Glossary & Quick Reference
-designation: ARCHIVE_02 — GLOSSARY
+title: The Wandering Isle
+designation: ARCHIVE_02 — Current Locality
 clearance: PUBLIC
 eyebrow: The World
 ---
