@@ -21,7 +21,7 @@ Two frequencies. Two ways in. Both lead to the same city.
 
 ## Before You Land
 
-You've hopefully already read the [Welcome](/the-sim/welcome/) page, the [Mature Content Warning](/the-sim/mature-content-warning/), and the [Rules of Engagement](/the-sim/rules-of-engagement/). If not, do that first — it's five minutes, and it'll make everything below make more sense.
+You've hopefully already read the [Welcome](/the-sim/welcome/) page, the [Mature Content Warning](/the-sim/mature-content-warning/), and the [Community Rules](/the-sim/community-rules/). If not, do that first — it's five minutes, and it'll make everything below make more sense.
 
 ## Your First Steps
 
