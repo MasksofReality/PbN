@@ -1,3 +1,10 @@
+---
+layout: layouts/dossier.njk
+title: Glossary & Quick Reference
+designation: ARCHIVE_02 — GLOSSARY
+clearance: PUBLIC
+eyebrow: The World
+---
 ## The Wandering Isle
 
 **TL;DR:** *A tropical island that **teleports around the globe.** Easy to reach, nightmarishly hard to leave (the **Governor’s Toll** warps space at its edges). Its wild interior behaves like a pocket dimension. The only real city is **Basilica Purgatory**, ruled in three tiers: the god-like **Governor**, the **Triune** beneath them, and the day-to-day **Council of Six.***
