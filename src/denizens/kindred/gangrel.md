@@ -1,15 +1,15 @@
 ---
 layout: layouts/dossier.njk
-splat: vampire
+splat: kindred
 title: Gangrel
 designation: BLOODLINE — GANGREL
 clearance: PUBLIC
-eyebrow: Vampire (Lilum) Bloodline
+eyebrow: Kindred (Lilum) Bloodline
 ---
 
 *Scions of the Ruined World*
 
-<p class="eyebrow">← Back to <a href="/denizens/vampire/">Vampire (Lilum)</a></p>
+<p class="eyebrow">← Back to <a href="/denizens/kindred/">Kindred (Lilum)</a></p>
 
 ## Who They Are
 
@@ -59,4 +59,4 @@ Track Animal Features on the character sheet. At 0–2, easily mistaken for a Su
 | Bane | Animal Features (gained per frenzy; -1 Social cap per 3 features) |
 | Willpower (base) | Equal to Courage score at creation |
 
-<p class="eyebrow">See also: <a href="/denizens/vampire/">Vampire overview</a> · <a href="/character-creation/">Character Creation Guide</a></p>
+<p class="eyebrow">See also: <a href="/denizens/kindred/">Kindred overview</a> · <a href="/character-creation/">Character Creation Guide</a></p>
