@@ -18,7 +18,7 @@ Every signal the Basilica broadcasts, in one place. IC scenes, OOC social nights
        calendar until you're ready to go live.
   -->
   <iframe
-    src=""https://calendar.google.com/calendar/embed?src=aeaa2c43b80a9edff9b885bd7431f0c8a221581dc1649e398719dcee2fdd707e%40group.calendar.google.com&ptz=America%2FLos%20Angeles"
+    src=""https://calendar.google.com/calendar/embed?src=aeaa2c43b80a9edff9b885bd7431f0c8a221581dc1649e398719dcee2fdd707e%40group.calendar.google.com"
     style="border: 0"
     width="100%"
     height="600"
@@ -37,8 +37,6 @@ Every signal the Basilica broadcasts, in one place. IC scenes, OOC social nights
 </div>
 
 ## Submitting an Event
-
-*Staff: replace this with your actual process once it's finalized.*
 
 Got a scene, social, or plot beat you'd like added to the calendar? Post the details in Discord — date, time (with time zone), a short description, and whether it's open to all or invite-only — and a member of staff will get it added.
 
