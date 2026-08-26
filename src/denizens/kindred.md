@@ -7,9 +7,7 @@ clearance: PUBLIC
 eyebrow: The Reborn — Children of Lilith, Not of Caine
 order: 1
 ---
-# **Purgatory by Night**
-
-## *Lilum: The Children of Lilith*
+# *Lilum: The Children of Lilith*
 
 ---
 
