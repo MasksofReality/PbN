@@ -2,7 +2,7 @@
 layout: layouts/dossier.njk
 splat: kindred/lilum
 title: Kindred/Lilum
-designation: DENIZEN_01 — VAMPIRE (LILUM)
+designation: DENIZEN_01 — KINDRED (LILUM)
 clearance: PUBLIC
 eyebrow: The Reborn — Children of Lilith, Not of Caine
 order: 1
@@ -25,7 +25,7 @@ The practical history is shorter, and it matters more.
 * **177 TE, the Awakened Censure Act:** the Awakened were taken to undisclosed prisons. It is the one Ascendancy law that survived the Pax, and nobody who signed the treaty has ever explained why. Whatever your line thinks it knows about that exception, it is not knowledge you can cite.  
 * **180 TE, the Pax Nocturnorum:** register as a Benign Reality Deviant, behave, and you hold the rights of any citizen.
 
-### Purgatory
+## Purgatory
 
 You live on the City-Isle, the strangest member of the League and the only one that has never held a Hearthstone. Before the Waygates it was the League's oubliette, and the Governor's Toll meant residency was a sentence. Now it is a freeport, and the most openly supernatural city on Earth.
 
