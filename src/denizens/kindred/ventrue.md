@@ -1,15 +1,15 @@
 ---
 layout: layouts/dossier.njk
-splat: vampire
+splat: kindred
 title: Ventrue
 designation: BLOODLINE — VENTRUE
 clearance: PUBLIC
-eyebrow: Vampire (Lilum) Bloodline
+eyebrow: Kindred (Lilum) Bloodline
 ---
 
 *Heavy is the Crown that Failed the Old World*
 
-<p class="eyebrow">← Back to <a href="/denizens/vampire/">Vampire (Lilum)</a></p>
+<p class="eyebrow">← Back to <a href="/denizens/kindred/">Kindred (Lilum)</a></p>
 
 ## Who They Are
 
@@ -59,4 +59,4 @@ All Ventrue begin with one dot in each of their three Bloodline Disciplines, tre
 | Bane | Sensitive Stomachs (safely feeds only on Mundane Humans) |
 | Willpower (base) | Equal to Courage + 2 |
 
-<p class="eyebrow">See also: <a href="/denizens/vampire/">Vampire overview</a> · <a href="/character-creation/">Character Creation Guide</a></p>
+<p class="eyebrow">See also: <a href="/denizens/kindred/">Kindred overview</a> · <a href="/character-creation/">Character Creation Guide</a></p>
