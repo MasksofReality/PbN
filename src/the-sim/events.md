@@ -25,11 +25,7 @@ Every signal the Basilica broadcasts, in one place. IC scenes, OOC social nights
     frameborder="0"
     scrolling="no">
   </iframe>
-  <div class="calendar-pending">
-    <p class="calendar-pending-label">Signal Not Yet Live</p>
-    <p>The calendar hasn't been connected yet — check back soon, or watch Discord for scheduling in the meantime.</p>
   </div>
-</div>
 
 ## Event Types
 
