@@ -1,3 +1,12 @@
+---
+layout: layouts/dossier.njk
+splat: kindred/lilum
+title: Kindred/Lilum
+designation: DENIZEN_01 — VAMPIRE (LILUM)
+clearance: PUBLIC
+eyebrow: The Reborn — Children of Lilith, Not of Caine
+order: 1
+---
 # **Purgatory by Night**
 
 ## *Lilum: The Children of Lilith*
