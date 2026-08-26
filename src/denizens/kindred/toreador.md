@@ -1,15 +1,15 @@
 ---
 layout: layouts/dossier.njk
-splat: vampire
+splat: kindred
 title: Toreador
 designation: BLOODLINE — TOREADOR
 clearance: PUBLIC
-eyebrow: Vampire (Lilum) Bloodline
+eyebrow: Kindred (Lilum) Bloodline
 ---
 
 *Tortured Seekers of What Beauty Remains*
 
-<p class="eyebrow">← Back to <a href="/denizens/vampire/">Vampire (Lilum)</a></p>
+<p class="eyebrow">← Back to <a href="/denizens/kindred/">Kindred (Lilum)</a></p>
 
 ## Who They Are
 
@@ -57,4 +57,4 @@ The Toreador of the new world are far less the sophisticated elite of the old. T
 | Bane | Enamored (Self-Control diff 6 or Captivated by own art/image) |
 | Willpower (base) | Equal to Courage score at creation |
 
-<p class="eyebrow">See also: <a href="/denizens/vampire/">Vampire overview</a> · <a href="/character-creation/">Character Creation Guide</a></p>
+<p class="eyebrow">See also: <a href="/denizens/kindred/">Kindred overview</a> · <a href="/character-creation/">Character Creation Guide</a></p>
