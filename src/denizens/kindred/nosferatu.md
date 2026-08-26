@@ -1,15 +1,15 @@
 ---
 layout: layouts/dossier.njk
-splat: vampire
+splat: kindred
 title: Nosferatu
 designation: BLOODLINE — NOSFERATU
 clearance: PUBLIC
-eyebrow: Vampire (Lilum) Bloodline
+eyebrow: Kindred (Lilum) Bloodline
 ---
 
 *New Kings of a World as Ugly as They*
 
-<p class="eyebrow">← Back to <a href="/denizens/vampire/">Vampire (Lilum)</a></p>
+<p class="eyebrow">← Back to <a href="/denizens/kindred/">Kindred (Lilum)</a></p>
 
 ## Who They Are
 
@@ -55,4 +55,4 @@ The Nosferatu went from the dregs of Kindred society to its new kingmakers. The 
 | Bane | Monstrous (Appearance locked at 1) |
 | Willpower (base) | Equal to Courage score at creation |
 
-<p class="eyebrow">See also: <a href="/denizens/vampire/">Vampire overview</a> · <a href="/character-creation/">Character Creation Guide</a></p>
+<p class="eyebrow">See also: <a href="/denizens/kindred/">Kindred overview</a> · <a href="/character-creation/">Character Creation Guide</a></p>
