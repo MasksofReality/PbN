@@ -18,7 +18,7 @@ Every signal the Basilica broadcasts, in one place. IC scenes, OOC social nights
        calendar until you're ready to go live.
   -->
   <iframe
-    src="GOOGLE_CALENDAR_EMBED_URL_HERE"
+    src=""https://calendar.google.com/calendar/embed?src=aeaa2c43b80a9edff9b885bd7431f0c8a221581dc1649e398719dcee2fdd707e%40group.calendar.google.com&ptz=America%2FLos%20Angeles"
     style="border: 0"
     width="100%"
     height="600"
