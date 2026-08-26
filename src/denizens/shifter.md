@@ -1,8 +1,8 @@
 ---
 layout: layouts/dossier.njk
-splat: werewolf
-title: Werewolf
-designation: DENIZEN_02 — WEREWOLF (GAROU)
+splat: shifters
+title: Shifters
+designation: DENIZEN_02 — SHIFTER
 clearance: PUBLIC
 eyebrow: The Restored — Warriors of Eshtarra the Younger
 order: 2
