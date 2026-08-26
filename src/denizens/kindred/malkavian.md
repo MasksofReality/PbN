@@ -1,15 +1,15 @@
 ---
 layout: layouts/dossier.njk
-splat: vampire
+splat: kindred
 title: Malkavian
 designation: BLOODLINE — MALKAVIAN
 clearance: PUBLIC
-eyebrow: Vampire (Lilum) Bloodline
+eyebrow: Kindred (Lilum) Bloodline
 ---
 
 *The Fools that Saw the World End Before the End*
 
-<p class="eyebrow">← Back to <a href="/denizens/vampire/">Vampire (Lilum)</a></p>
+<p class="eyebrow">← Back to <a href="/denizens/kindred/">Kindred (Lilum)</a></p>
 
 ## Who They Are
 
@@ -52,4 +52,4 @@ Every Malkavian begins play with one Derangement — not a Flaw, no Freebie cost
 | Starting Derangement | One, chosen with Mentor — not a Flaw, not purchased |
 | Willpower (base) | Equal to Courage score at creation |
 
-<p class="eyebrow">See also: <a href="/denizens/vampire/">Vampire overview</a> · <a href="/character-creation/">Character Creation Guide</a></p>
+<p class="eyebrow">See also: <a href="/denizens/kindred/">Kindred overview</a> · <a href="/character-creation/">Character Creation Guide</a></p>
