@@ -1,7 +1,7 @@
 ---
 layout: layouts/dossier.njk
-splat: vampire
-title: Vampire
+splat: kindred/lilum
+title: Kindred/Lilum
 designation: DENIZEN_01 — VAMPIRE (LILUM)
 clearance: PUBLIC
 eyebrow: The Reborn — Children of Lilith, Not of Caine
