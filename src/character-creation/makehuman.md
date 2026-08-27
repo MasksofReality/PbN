@@ -1,11 +1,10 @@
 ---
 layout: layouts/dossier.njk
 title: Human Creation Guide
-designation: ARCHIVE_05 — CHARACTER CREATION
+designation: ARCHIVE_09 — HUMAN CREATION
 clearance: PUBLIC
 eyebrow: Building A Human in the Basilica
-------
-
+---
 ## **Building a human**
 
 Humans use the universal creation standard without modification. There is no human variant of this table.
