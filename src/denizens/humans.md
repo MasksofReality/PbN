@@ -7,8 +7,6 @@ clearance: PUBLIC
 eyebrow: In Persistence, Lies Strength
 order: 6
 ---
-<p align="center"><i>In Persistence lies Strength</i></p>p>
-
 ## **Before you begin**
 
 This is the entry for ordinary human beings—those typically referred to as "Mundanes" by Nightfolk. Sorcerers and Metahumans have sections of their own, and a character who becomes a Sorcerer stops using this one; the two genuine roads out are covered further down. Ghouls are not a separate splat. A ghouled mortal is still a Mundane Human at the end of the day, something many have found out the hard way when their Vitae supply gets cut off.
