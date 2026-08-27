@@ -1,16 +1,12 @@
 ---
 layout: layouts/dossier.njk
 splat: kindred/lilum
-title: Kindred/Lilum
+title: Lilum - The Children of Lilith
 designation: DENIZEN_01 — KINDRED (LILUM)
 clearance: PUBLIC
 eyebrow: The Reborn — Children of Lilith, Not of Caine
 order: 1
 ---
-# *Lilum: The Children of Lilith*
-
----
-
 ## **Being Lilum in 200 TE**
 
 The old Sects are gone. Camarilla, Sabbat and the Anarch Movement died with the world that could afford them. What survived the Sundering was a scatter of the hungry, and what organised them again was the covenant of Lilith. Every Lilum is a Child of Lilith now, whatever their line remembers about who they used to answer to.
