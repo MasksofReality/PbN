@@ -1,3 +1,12 @@
+---
+layout: layouts/dossier.njk
+splat: dhampire
+title: Dhampire
+designation: DENIZEN_08 — DHAMPIRE
+clearance: PUBLIC
+eyebrow: One Foot in Mortality, One Foot in Darkness
+order: 8
+---
 # Dhampir
 
 ## *Those born caught between life and death*
