@@ -27,7 +27,7 @@ Your character lives in the City-Isle of Purgatory, in the Tides of Plenty, on a
 
 The city began as the League's polite oubliette: the place where you sent anyone too powerful to kill, back when the Governor's Toll made getting out a matter of tithing time or magic, and tithing wrong meant never arriving anywhere. That founding stock of exiles, fugitives and inconvenient people never washed out of the city's character. The waygates opened about ten years ago and changed what the island is for; now every Basilica's goods, agents and secrets pass through the same crowded streets. The Council of Six governs day to day, five of its seats belong to the Grand Factions, and the Triune watch from a distance. Everyone came from somewhere else, everyone has an angle, and nothing is free, least of all the things that claim to be.
 
-### The history your character stood in
+## The history your character stood in
 
 This matters more to a human character than any cosmology, because your character—or their parents—were standing in it.
 
@@ -41,7 +41,7 @@ This matters more to a human character than any cosmology, because your characte
 
 Do the arithmetic on your sheet before you write your character's history. Anyone over about 25 was alive under the Ascendancy. Anyone over 30 has childhood memories of it. Anyone over 47 remembers the year the world found out. Somebody in your family was on one side of it or the other, and in Purgatory it is considered very rude to ask which.
 
-### What every human knows
+## What every human knows
 
 The public face of the world, all of it true as far as it goes.
 
@@ -55,7 +55,7 @@ Paratech runs everything. Old World scitech goes haywire near a wyrdstorm; parat
 
 Outside is lethal. Aberrants, anomalies, radiation, wyrdstorms.
 
-### What nobody knows
+## What nobody knows
 
 This is where this splat's horror lives, because a human cannot reach any of it by accident. The old assumption that a mortal's story begins with discovering monsters are real does not survive 200 TE. A registered Lilum runs a bar three doors down and pays taxes on it.
 
