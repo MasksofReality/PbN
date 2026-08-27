@@ -1,4 +1,10 @@
 ---
+layout: layouts/dossier.njk
+title: Human Creation Guide
+designation: ARCHIVE_05 — CHARACTER CREATION
+clearance: PUBLIC
+eyebrow: Building A Human in the Basilica
+------
 
 ## **Building a human**
 
