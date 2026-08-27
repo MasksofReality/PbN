@@ -5,45 +5,152 @@ designation: ARCHIVE_03 — FACTIONS
 clearance: PUBLIC
 eyebrow: The Broken City
 ---
-# **The Five Grand Factions**
+# **The Five Factions of Purgatory**
 
-Factions are defined by **purpose and philosophy, not splat.** Any supernatural type can join any faction (the Imbued excepted). A vampire, Garou, Lost, and Sorcerer may all share one table: and often must.
+## **Overview**
 
-| Faction | Role | Composition | Motto |
-| :---: | :---: | :---: | :---: |
-| **The Order  of Vigiles** | Keep the peace between mortals and Nightfolk; solve paracausal crime. | **Balanced Faction**; Nightfolk and Humans work together. | *“Through Law comes Peace.”* |
-| **The Ashen Court** | Power-brokering; trade in illicit and hard-to-get goods. “By and for Nightfolk.” | **Supernatural majority**; Humans not advised. | *“From ash, we rise to rule the new night.”* |
-| **The Sovereign Club** | The ultra-wealthy elite; captains of industry. The “money solves everything”faction. | **Human majority**; Nightfolk expected to play at being human. | *“Through Prosperity comes Unity.”* |
-| **The Promethean Institute** | Paratech innovation; recovery of the lost and discovery of the new. The “weird science”meets “Indiana Jones”Faction. | **Balanced Faction**; Nightfolk and Humans work together. | *“Bear the rekindled torch boldly into the unknown.”* |
-| **The Circle of  Bone & Ivy** | Keepers of the peace between the realms of material and spirit; wardens of portals and closers of rifts. | **Supernatural majority** Mundane humans are not advised; Gifted are. | *“Sooth the spirit, keep the Balance.”* |
+Purgatory runs on favors, secrets, and five very different visions of what the City of Exiles should become. Day to day, the city answers to the Council of Six, and five of those six seats belong to the leaders of Purgatory's Grand Factions. The sixth answers only to the Governor.
 
-# **Inter-Faction Relationships**
+Here's the important part: **none of these Factions are tied to a splat.** They're built around ideas, not species. A human, a vampire, a changeling, a hunter, or anyone else can find a seat at any of these tables, provided they believe in what that table stands for. Where you land should come down to what you want your character to fight for, not what kind of character they are.
 
-**TL;DR:** *No faction holds a majority, so everything is shifting alliances. The reliable core is **Vigiles \+ Circle** (peacekeepers). The reliable dirty engine is **Ashen Court \+ Sovereign Club** (they publicly despise each other and privately can’t function apart). The **Promethean Institute** gets along with nearly everyone. The **Circle** and **Sovereign Club** are the coldest pairing on the Council.*
+A quick snapshot before the deep dive:
 
-**Stance Grid** *(read by row: how the LEFT faction regards each faction across the TOP; the reverse is rarely identical):*
+* **Order of Vigiles** – Purgatory's law and order, working directly for the Governor to keep the peace between Nightfolk and humanity.  
+* **The Sovereign Club** – the city's money and industry, protecting the status quo because stability is good for business.  
+* **The Ashen Court** – the shadow hand of Nightfolk supremacy, operating where no one is supposed to be watching.  
+* **The Circle of Bone and Ivy** – advocates for Nightfolk freedom and stewards of the Dreaming's wreckage.  
+* **The Promethean Institute** – the scientists and innovators, chasing progress without asking too many questions about the cost.
 
-| Faction ↓ regards → | Order of Vigiles | Ashen Court | Sovereign Club | PrometheanInstitute | Circle |
-| ----- | :---: | :---: | :---: | :---: | :---: |
-| Order of Vigiles | *—* | *Adversarial* | *Wary* | *Cordial* | *Allied* |
-| Ashen  Court | *Adversarial* | *—* | *Pragmatic* | *Pragmatic* | *Wary* |
-| Sovereign Club | *Pragmatic* | *Disdainful* | *—* | *Cordial* | *Disdainful* |
-| Promethean Institute | *Cordial* | *Pragmatic* | *Cordial* | *—* | *Cordial* |
-| Circle of Bone & Ivy | *Allied* | *Wary* | *Disdainful* | *Wary* | *—* |
+Below, each Faction gets a closer look: what they believe, what they actually do in the sim, how a character can rise through their ranks, and what they're ultimately working toward.
 
-**Legend:** *Allied* \= active trust · *Cordial* \= friendly on balance · *Pragmatic* \= transactional, profit before trust · *Wary* \= cooperation possible, trust low · *Adversarial* \= open friction · *Disdainful* \= contempt
+---
 
-**The key pairings at a glance:**
+# Choosing a Faction
 
-* **Order of Vigiles ⇄ Ashen Court**: Endless cat-and-mouse. The Court is the source of the crime the Vigiles exist to fight, and refuse to be bought.
+Every one of these five Factions is built around a belief, not a bloodline. A vampire can wear the Order of Vigiles' badge just as easily as a human can run jobs for the Ashen Court. When picking a Faction for your character, ask what they'd fight for, not what they are, and the right fit should follow naturally.
 
-* **Order of Vigiles ⇄ Circle of Bone & Ivy**: Natural allies and the most dependable voting bloc; peacekeepers on opposite sides of the same veil. Quarrels only over jurisdiction (*who owns a murder by a spirit?*).
+## **Order of Vigiles**
 
-* **Ashen Court ⇄ Sovereign Club**: The Isle’s worst-kept secret: the Club launders, the Court supplies. Public loathing, private dependence.
+### **What They Stand For**
 
-* **Sovereign Club ⇄ Promethean Institute**: Patron and protégé. Club money funds Institute wonders (with strings the Institute grins and bears).
+The Order believes that peace is worth protecting, and that peace only holds if someone is willing to enforce it. They serve the Governor directly and see themselves as the reason Purgatory hasn't torn itself apart. Their loyalty is to the law of the land, not to any one species, human or Nightfolk.
 
-* **Promethean Institute** **⇄ Circle of Bone & Ivy**: The most fraught working relationship: the Institute can’t run an expedition without the Circle to open and seal the way, and the Circle spends half its time cleaning up the Institute’s recklessness.
+### **Purpose in the Sim**
 
-* **Sovereign Club ⇄ Circle of Bone & Ivy:** The coldest pairing: materialism that can buy anything meets a group that can’t be bought and keeps company with spirits. They avoid each other until a vote forces the room.
+When something goes wrong involving Nightfolk, whether that's a broken accord, a body that shouldn't exist, or a rumor that's turned into a real problem, it's the Order of Vigiles who gets called in. They investigate, they report to the Council and the Governor's authority, and they act on what they find. The Order keeps chapters across many of the world's Basilicas, including a chapter here in Purgatory, which means Vigiles characters have a built-in reason to interact with cases and contacts beyond the Isle itself.
+
+### **Faction Hierarchy**
+
+* **Aspirant** – A hopeful recruit, still earning trust and learning the Order's methods.  
+* **Vigil** – A field investigator, assigned real cases and given real authority to act on them.  
+* **Sentry** – A senior Vigil who oversees investigations and mentors newer members.  
+* **Inquisitor** – Handles the Order's most serious cases, including formal rulings on Nightfolk accusations.  
+* **Justicar** – Commands the Purgatory chapter and holds the Order's seat on the Council of Six.
+
+### **Overarching Goal**
+
+Keep the balance intact. The Order wants a Purgatory where humanity can go on flourishing without living in fear, and where Nightfolk who follow the rules are left alone to do the same. They're not interested in tipping the scales toward either side; they're interested in making sure the scales never tip at all.
+
+---
+
+## **The Sovereign Club**
+
+### **What They Stand For**
+
+The Sovereign Club believes money runs the world, and in Purgatory, they'd argue that's more true than anywhere else. Its members are the wealthiest names in the city's biggest industries: entertainment, technology, medicine, science, retail, nightlife, and food service. They back stability because a peaceful city is a profitable one, but make no mistake, every decision they make is ultimately about protecting their own power and holdings.
+
+### **Purpose in the Sim**
+
+The Sovereign Club is Purgatory's economic engine and its boardroom politics all at once. They fund ventures, control access to the city's biggest industries, and quietly decide who gets to do business and who doesn't. This Faction exists only in Purgatory, not in the other Basilicas, which makes it a distinctly local seat of power with citywide reach.
+
+### **Faction Hierarchy**
+
+* **Associate** – A sponsored newcomer, still proving they belong in the room.  
+* **Partner** – An established name with a real stake in one of the Club's industries.  
+* **Executive** – A leader within their industry, with real influence over that sector of the city.  
+* **Board Member** – Sits on the Club's inner council and helps shape citywide policy.  
+* **Chairperson** – Leads the Sovereign Club and holds its seat on the Council of Six.
+
+### **Overarching Goal**
+
+Grow the empire. The Sovereign Club wants Purgatory stable enough to keep the money flowing and pliable enough that their interests always come first. Peace is a means to an end, and the end is always more power and more wealth in Sovereign hands.
+
+---
+
+## **The Ashen Court**
+
+### **What They Stand For**
+
+The Ashen Court believes Nightfolk should be the ones truly running the world, not humanity. They work from the shadows, out of sight of the people who would stop them if they knew, and they exist to give Nightfolk every advantage they can seize.
+
+### **Purpose in the Sim**
+
+If it's illicit and it benefits Nightfolk, there's a good chance the Ashen Court had a hand in it. They run the city's underworld operations, quietly shift power and resources toward Nightfolk interests, and specialize in doing what the other Factions can't or won't. Like the Sovereign Club, the Ashen Court exists only in Purgatory, making their reach and reputation intensely local, and intensely dangerous.
+
+### **Faction Hierarchy**
+
+* **Whisper** – A new recruit, running small jobs and proving they can keep a secret.  
+* **Shadowhand** – A trusted operative, trusted with real assignments and real risk.  
+* **Enforcer** – The Court's muscle, handling the jobs that require force rather than finesse.  
+* **Courtier** – A member of the inner circle, helping plan and direct operations.  
+* **Lord/Lady** – Leads the Ashen Court and holds its seat on the Council of Six.
+
+### **Overarching Goal**
+
+Tip the balance permanently. The Ashen Court isn't interested in coexistence; they want a future where Nightfolk hold the power openly, and they're willing to work in secret for as long as it takes to get there.
+
+### **Note on Cross-Faction Dynamics**
+
+Because the Order of Vigiles exists to investigate exactly the kind of activity the Ashen Court specializes in, these two Factions are natural rivals. That tension is a built-in source of roleplay for characters on either side.
+
+---
+
+## **The Circle of Bone and Ivy**
+
+### **What They Stand For**
+
+The Circle fights for Nightfolk rights in the world as it exists today. They don't hate humanity, but they refuse to accept that Nightfolk should have to live under humanity's thumb, hiding who they are out of fear. Alongside that fight, they've taken on the work of protecting the Dreaming and cleaning up the lingering damage left behind by the Sundering.
+
+### **Purpose in the Sim**
+
+The Circle is part advocacy group and part caretaker. They push for Nightfolk to be treated fairly and openly, while also doing the quiet, difficult work of keeping the island stable and tending to what the Sundering left broken. This Faction exists only in Purgatory, which makes their stewardship of the Dreaming's remnants and their advocacy work deeply tied to this one city.
+
+### **Faction Hierarchy**
+
+* **Seedling** – A newcomer just beginning to learn the Circle's cause and its history.  
+* **Greenskeeper**– A caretaker responsible for protecting remnants of the Dreaming.  
+* **Advocate** – Works the social and political side, pushing for Nightfolk rights and recognition.  
+* **Bonebinder** – Handles the Circle's most dangerous work, containing and cleaning up Sundering fallout.  
+* **Circle Elder** – Leads the Circle of Bone and Ivy and holds its seat on the Council of Six.
+
+### **Overarching Goal**
+
+A world where Nightfolk don't have to hide, and an island that isn't quietly falling apart from old wounds. The Circle wants dignity for Nightfolk and stability for Purgatory, and they see the two goals as inseparable.
+
+---
+
+## **The Promethean Institute**
+
+### **What They Stand For**
+
+The Promethean Institute believes in progress above all else, particularly progress in paratech. They're the ones keeping the lights on, quite literally, in every Basilica they operate in. Publicly, they exist to give humanity an edge. Privately, they'll cross lines other Factions won't if it means real breakthroughs.
+
+### **Purpose in the Sim**
+
+The Institute keeps Purgatory's paratech infrastructure running and pushes the boundaries of what that technology can do. Unlike the other four Factions, they don't take a side in the Nightfolk-versus-humanity question; they're focused on the science itself, not the politics around it. That neutrality makes them a Faction almost any character can plausibly join, regardless of where they stand on the city's bigger arguments.
+
+### **Faction Hierarchy**
+
+* **Lab Aide** – An entry-level assistant, learning the Institute's methods and its discretion.  
+* **Researcher** – Conducts real experiments and contributes to ongoing projects.  
+* **Field Technician** – Deploys and maintains paratech out in the city, keeping Purgatory running.  
+* **Section Head** – Oversees an entire research division and its projects.  
+* **Director** – Leads the Promethean Institute and holds its seat on the Council of Six.
+
+### **Overarching Goal**
+
+Progress, whatever it costs. The Institute wants to keep pushing paratech forward, and they're willing to make morally uncomfortable choices behind closed doors if that's what it takes to get there. Whether that progress ultimately helps Nightfolk or humanity more isn't really their concern; the work is the point.
+
+---
+
 
