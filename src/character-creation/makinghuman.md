@@ -4,7 +4,13 @@ PARALLEL TO: /character-creation/makinglilum/
 Structure deliberately mirrors the Lilum page section for section:
   standard table -> derived values -> how the "power" rolls -> spending 21 -> choose your sub-splat -> what else
 -->
-
+---
+layout: layouts/dossier.njk
+title: Human Creation Guide
+designation: ARCHIVE_17 — HUMAN CREATION
+clearance: PUBLIC
+eyebrow: Building A Life in the Basilica
+---
 # Human Creation Guide
 
 Building A Life in the Basilica
