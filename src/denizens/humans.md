@@ -7,9 +7,7 @@ clearance: PUBLIC
 eyebrow: In Persistence, Lies Strength
 order: 6
 ---
-## *In Persistence lies Strength*
-
----
+<p align="center"><i>In Persistence lies Strength</i></p>p>
 
 ## **Before you begin**
 
