@@ -23,7 +23,7 @@ A figure called the Moderator — a lesser being answering to the God-Machine al
 | Type | Nature |
 |---|---|
 | **Mundane Hunter** | A regular human who became aware of supernaturals inside the Basilica and chose to act. No special abilities — only will, preparation, and dangerous knowledge. |
-| **Imbued** | Hunters blessed with supernatural abilities specifically suited to navigating the supernatural world. |
+| **[Imbued](/denizens/hunter/imbued/)** | Hunters blessed with supernatural abilities specifically suited to navigating the supernatural world. |
 | **Shih** | The eastern variation of the Imbued, drawing from different traditions but serving the same purpose. |
 | **Bystander** | A Hunter who has forsaken their creed, abandoned their group, or lost their abilities through betrayal or trauma. Rare, and considered dangerous by all sides. |
 
