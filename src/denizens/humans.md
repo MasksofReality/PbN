@@ -1,15 +1,12 @@
 ---
 layout: layouts/dossier.njk
 splat: mortals
-title: Mortals
+title: Mundane Humans
 designation: DENIZEN_06 — HUMAN
 clearance: PUBLIC
 eyebrow: In Persistence, Lies Strength
 order: 6
 ---
----
-# Mundane Humans
-
 ## *In Persistence lies Strength*
 
 ---
