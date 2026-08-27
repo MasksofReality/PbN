@@ -25,11 +25,11 @@ Take your Calling's Affinity Art, which is mandatory, and Discernment — one at
 
 A freebie Art dot buys Steadfast at 1 for 11 points, subject to the one-dot cap. Discordant and Restricted Arts are never buyable with freebies and never available at creation, and Reckoning is not available at creation under any circumstance.
 
-See the [Imbued overview](/denizens/hunter/imbued/) for the full Calling table (Hunt, Hold, Witness, Weigh, Mend, Warn), and [Sacred Arts](/denizens/hunter/imbued-sacred-arts/) for the complete tier-by-tier breakdown of all fifteen Arts.
+See the [Imbued overview](/denizens/imbued/) for the full Calling table (Hunt, Hold, Witness, Weigh, Mend, Warn), and [Sacred Arts](/denizens/imbued/sacred-arts/) for the complete tier-by-tier breakdown of all fifteen Arts.
 
 ## Backgrounds Worth a Look
 
-Allies and Contacts inside a hunter guild or a Vigiles chapter. Resources, because the work does not pay. Mentor, which for an Imbued means another Imbued, and which is your only route to a Discordant or Restricted Art. A Warrant is a legal status rather than a Background, and it costs you nothing — see [the Vigil Codicil](/denizens/hunter/imbued-stability-and-law/#the-vigil-codicil-and-the-law) for what it does and does not protect you from.
+Allies and Contacts inside a hunter guild or a Vigiles chapter. Resources, because the work does not pay. Mentor, which for an Imbued means another Imbued, and which is your only route to a Discordant or Restricted Art. A Warrant is a legal status rather than a Background, and it costs you nothing — see [the Vigil Codicil](/denizens/imbued/stability-and-law/#the-vigil-codicil-and-the-law) for what it does and does not protect you from.
 
 ## Abilities
 
@@ -37,8 +37,8 @@ Arcane is the useful Knowledge and most Imbued have none of it, because the Sigh
 
 ## What Else You'll Need
 
-- **[Imbued overview](/denizens/hunter/imbued/)** — the Harrowing, the Sight, the anchored pattern, Pneuma, and the six Callings
-- **[Sacred Arts](/denizens/hunter/imbued-sacred-arts/)** — every Art, tier by tier
-- **[Stability, Dying & the Vigil Codicil](/denizens/hunter/imbued-stability-and-law/)** — Eldritch, the Instruction, the three endings, and the law
+- **[Imbued overview](/denizens/imbued/)** — the Harrowing, the Sight, the anchored pattern, Pneuma, and the six Callings
+- **[Sacred Arts](/denizens/imbued/sacred-arts/)** — every Art, tier by tier
+- **[Stability, Dying & the Vigil Codicil](/denizens/imbued/stability-and-law/)** — Eldritch, the Instruction, the three endings, and the law
 
-<p class="eyebrow">See also: <a href="/denizens/hunter/">Hunter overview</a> · <a href="/character-creation/">Character Creation Guide</a></p>
+<p class="eyebrow">See also: <a href="/character-creation/">Character Creation Guide</a></p>

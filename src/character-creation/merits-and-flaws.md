@@ -65,11 +65,11 @@ No Merit here adds dice to a Blood Art roll — where one touches an Art at all,
 
 **Flaws:** Essence Addiction ⭐, Dharma Conflict ⭐, Pact Restriction ⭐ (Sorcerer — design collaboratively with your Mentor), School Rivalry 🔶 (Sorcerer schools replaced the old Traditions; professional rivalries are the closest thing that remains).
 
-### Human & Hunter
+### Human & Imbued
 
-**Merits:** Profession Expertise 🔧 (RbN Original — reduces difficulty of core Profession rolls by 2), Cyber-Adaptable 🔧 (RbN Original — for characters planning multiple cyber-modifications), Imbued (Hunter) ⚠ (the source of the blessing is deliberately undefined — discuss with Admin), Society of Leopold Contacts 🔧 (Society contacts know what you are and can place demands on you), Psychic Potential ⚠ (elevated Veil risk).
+**Merits:** Profession Expertise 🔧 (RbN Original — reduces difficulty of core Profession rolls by 2), Cyber-Adaptable 🔧 (RbN Original — for characters planning multiple cyber-modifications), Society of Leopold Contacts 🔧 (Society contacts know what you are and can place demands on you), Psychic Potential ⚠ (elevated Veil risk).
 
-**Flaws:** Supernatural Awareness ⭐, Marked by the Machine 🔧 (RbN Original — the Guild isn't actively hunting you yet, but you're in the system), Mundane Blindness 🔶, Forsworn ⭐ (the defining trait of Bystander Hunters).
+**Flaws:** Supernatural Awareness ⭐, Marked by the Machine 🔧 (RbN Original — the Guild isn't actively hunting you yet, but you're in the system), Mundane Blindness 🔶, Forsworn ⭐ (the weight of having broken faith with something you once served).
 
 ## Banned Merits & Flaws
 

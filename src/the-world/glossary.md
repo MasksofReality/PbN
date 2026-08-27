@@ -76,7 +76,7 @@ This is not a standard World of Darkness setting. Many familiar terms have chang
 
 **Awakened / Mages** — Extinct as a free community. Those who Awaken are conscripted by the God Machine Guild. Not playable — if your character appears to be Awakening, contact Admin immediately.
 
-**Hunters** — Don't hunt supernaturals to destroy them; they maintain balance and keep the Veil intact. Four types: Mundane Hunters, the Imbued, the Shih, and Bystanders.
+**Imbued** — Humans who died to an aberrant and returned through the Harrowing: bound to an unexplained Edict, blinded and given the Sight in trade, and driven to answer one of six Callings (Hunt, Hold, Witness, Weigh, Mend, Warn). They don't exist purely to destroy the supernatural — they exist to maintain balance and keep the Veil intact.
 
 **Half-Damned** — Humans with one foot in the supernatural world: Kinfolk, Ghouls, Projectors, and Dhampir.
 
@@ -89,7 +89,7 @@ This is not a standard World of Darkness setting. Many familiar terms have chang
 | **RP** | Roleplay |
 | **ST** | Storyteller |
 | **NPC / PC** | Non-Player Character / Player Character |
-| **Splat** | A supernatural type — Vampire, Werewolf, Lost, Hellion, Sorcerer, Psychic, Human, or Hunter |
+| **Splat** | A supernatural type — Vampire, Werewolf, Lost, Hellion, Sorcerer, Psychic, Human, or Imbued |
 | **Subtype** | The specific variety within a splat — bloodline, tribe, seeming, dharma, school, or profession |
 | **FFC** | Free-Form Combat — used only when all parties explicitly agree |
 | **Metagaming** | Using knowledge your character couldn't realistically have |

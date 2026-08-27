@@ -24,7 +24,7 @@ Some subtypes are marked <strong>Rare</strong>. These require additional backgro
 
 ## Choosing Your Splat
 
-Basilica Purgatory supports eight playable splats. All splats except Hunter may join any of the five Factions.
+Basilica Purgatory supports eight playable splats. All splats except Imbued may join any of the five Factions.
 
 | Splat | Type | Common Subtypes | Rare Path? |
 |---|---|---|---|
@@ -35,9 +35,9 @@ Basilica Purgatory supports eight playable splats. All splats except Hunter may 
 | **Sorcerer** | Supernatural | 6 Schools | No |
 | **Psychic** | Human (Hidden) | 6 Types | No |
 | **Human** | Mundane | 6 Professions + Half-Damned | No |
-| **Hunter** | Mundane/Imbued | 4 Types | Yes — Bystander |
+| **Imbued** | Human (Harrowed) | 6 Callings | No |
 
-Full mechanics, strengths, weaknesses, and subtype breakdowns for each splat live on their own [Denizens](/#) pages: [Lilum](/denizens/kindred/) · [Werewolf](/denizens/werewolf/) · [Lost](/denizens/lost/) · [Hellion](/denizens/hellion/) · [Gifted (Sorcerer & Psychic)](/denizens/gifted/) · [Mortals](/denizens/mortals/) · [Hunter](/denizens/hunter/) · [Half-Damned](/denizens/half-damned/).
+Full mechanics, strengths, weaknesses, and subtype breakdowns for each splat live on their own [Denizens](/#) pages: [Lilum](/denizens/kindred/) · [Werewolf](/denizens/werewolf/) · [Lost](/denizens/lost/) · [Hellion](/denizens/hellion/) · [Gifted (Sorcerer & Psychic)](/denizens/gifted/) · [Mortals](/denizens/mortals/) · [Imbued](/denizens/imbued/) · [Half-Damned](/denizens/half-damned/).
 
 ## Stats & Attributes
 
@@ -75,7 +75,6 @@ Your background is the most important part of your application — it tells us w
 | Rare Subtype (any splat) | Full explanation of how it survived, how it functions today, and what it contributes to the Basilica. |
 | Psychic (any type) | A detailed masking practice — how the character disguises their abilities as Sorcerer-style magic. |
 | Dhampir | Explain parentage, how the character has survived given their rarity, and their relationship with both heritages. |
-| Bystander Hunter | Explain what broke the Hunter's faith or cost them their abilities, and why they remain in the Basilica. |
 | Dreamborne Fae | Explain survival, what service they provide their reigning Wyrd-born, and why they're inside the walls. |
 
 ## The Approval Process

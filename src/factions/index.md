@@ -7,7 +7,7 @@ eyebrow: The Broken City
 ---
 # **The Five Grand Factions**
 
-Factions are defined by **purpose and philosophy, not splat.** Any supernatural type can join any faction (Hunters excepted). A vampire, Garou, Lost, and Sorcerer may all share one table: and often must.
+Factions are defined by **purpose and philosophy, not splat.** Any supernatural type can join any faction (the Imbued excepted). A vampire, Garou, Lost, and Sorcerer may all share one table: and often must.
 
 | Faction | Role | Composition | Motto |
 | :---: | :---: | :---: | :---: |

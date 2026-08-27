@@ -197,7 +197,7 @@ Today, safety depends on *downplaying* the danger within the walls. So long as m
 
 **The unspoken rule:** *Discretion is the better part of valor.* Hide obviously inhuman features and abilities in unknown company; reveal your nature only to a trusted few (and even then, spin it favorably). BRD status is fragile: even the *perception* of using your inhuman advantages over a normal human can cost it. Easiest, always, to simply seem human from the start.
 
-**On Hunters.** Hunters are humans who devote their lives to killing **Aberrants.** Most have lost someone to one. Some curdle into militant zealots who see every Supernatural as a tragedy waiting to happen; others overcome the pain and become true guardians, working so that no one else suffers as they did.
+**On the Imbued.** The Imbued are humans who have undergone the Harrowing — died to an aberrant and returned, bound to an unknown Edict that drives them to hunt and destroy the supernatural. Most have lost someone to one. Some curdle into militant zealots who see every Supernatural as a tragedy waiting to happen; others overcome the pain and become true guardians, working so that no one else suffers as they did.
 
 ---
 
@@ -219,7 +219,7 @@ Full character creation information for each is in the [Character Creation Guide
 
 **Humans.** The majority of Basilica Purgatory. They run the city, staff its institutions, and outnumber every supernatural type combined. Human characters choose a Profession. Half-Damned are humans with one foot in the supernatural world: Kinfolk, Ghouls, Projectors, and Dhampir.
 
-**Hunters.** In Basilica Purgatory, Hunters don't hunt supernaturals to destroy them — they exist to maintain balance and keep the Veil intact.
+**Imbued.** Humans who died to an aberrant and returned through the Harrowing, bound to an Edict none of them chose and none can explain. They don't hunt supernaturals purely to destroy them — each Calling (Hunt, Hold, Witness, Weigh, Mend, Warn) answers a different mandate, and together they exist to maintain balance and keep the Veil intact.
 
 ---
 

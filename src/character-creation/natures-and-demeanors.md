@@ -25,7 +25,7 @@ Recommended as first choices for new and experienced players alike — these con
 
 - **Survivor** — Regain Willpower by surviving a threatening situation through tenacity. The single most appropriate Nature for RbN: every character alive in 200 TE is, at their core, a survivor.
 - **Penitent** — Regain Willpower on achieving absolution for a grievance. Two centuries of catastrophe leaves everyone with something to atone for.
-- **Guardian** — Regain Willpower by saving a weaker group or character from destruction. Ideal for Hunters, Mentors, Veil Keepers, and Werewolves.
+- **Guardian** — Regain Willpower by saving a weaker group or character from destruction. Ideal for the Imbued, Mentors, Veil Keepers, and Werewolves.
 - **Fanatic** — Regain Willpower by accomplishing a task tied to your cause. The world was rebuilt by people with a cause strong enough to survive the end of everything.
 - **Architect** — Regain Willpower by establishing something of lasting value. Fits the Basilica's reconstruction theme perfectly.
 - **Caregiver** — Regain Willpower by protecting or nurturing someone. Mentors, Physicians, and Children of Eshtarra by calling.
@@ -34,7 +34,7 @@ Recommended as first choices for new and experienced players alike — these con
 - **Rebel** — Regain Willpower by adversely affecting your chosen opposition — the God Machine Guild's grip, the Veil itself, or the Ashen Court's presumption.
 - **Visionary** — Regain Willpower by convincing others to follow your vision. Dangerous in RbN: followers attract God-Machine attention.
 - **Martyr** — Regain Willpower when your suffering leads to tangible gain. Martyrdom is written into the setting's mythology — Gaia, Luna, Lilith all paid a cost.
-- **Soldier** — Regain Willpower by achieving difficult orders. Pairs well with faction, Hunter, or God Machine Guild protocol characters.
+- **Soldier** — Regain Willpower by achieving difficult orders. Pairs well with faction, Imbued, or God Machine Guild protocol characters.
 - **Pedagogue** — Regain Willpower when someone benefits from wisdom you shared. Knowledge is survival in the post-Sundering world.
 - **Conformist** — Regain Willpower when the group achieves a goal due to your support. Underappreciated but deeply fitting — collective survival depends on people knowing their role.
 - **Guru** — Regain Willpower by moving another to enlightened action, or through personal epiphany. Fits Lost Mirror and Children of Eshtarra spiritual communities.

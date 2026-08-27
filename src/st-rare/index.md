@@ -7,7 +7,7 @@ eyebrow: Not Linked From Site Navigation
 ---
 
 <div class="callout callout--rare">
-This page exists only for Mentors and Storytellers to find and share direct links with a specific player under consideration for a Rare path. It is not linked from the main site navigation, the Lost overview, or the Hunter overview, and won't be found by players browsing normally. Bookmark this page for your own reference.
+This page exists only for Mentors and Storytellers to find and share direct links with a specific player under consideration for a Rare path. It is not linked from the main site navigation or the Lost overview, and won't be found by players browsing normally. Bookmark this page for your own reference.
 </div>
 
 ## Dreamborne (Lost — Rare Path)
@@ -25,10 +25,6 @@ This page exists only for Mentors and Storytellers to find and share direct link
 - [Siren](/denizens/lost/dreamborne/siren/) — The Seductress
 - [Piskie](/denizens/lost/dreamborne/piskie/) — The Child
 - [Firbolg](/denizens/lost/dreamborne/firbolg/) — The Orphan
-
-## Bystander (Hunter — Rare Type)
-
-- [Bystander](/denizens/hunter/bystander/) — a Hunter who has fallen from their Creed
 
 ## Hellion — Rare Dharma Path
 

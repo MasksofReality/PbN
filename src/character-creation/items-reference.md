@@ -53,7 +53,7 @@ Not tied to a single splat's power system — genuine supernatural items any app
 
 - **Mirror of Honest Reflection** ⭐ — Reveals emotional truth without compelling speech. A favorite of negotiators and Veil Keepers investigators.
 - **The Chronicler's Seal** ⭐ (Archivists especially) — Documents sealed with it can't be falsified or destroyed. The Shadow Directorate would love to own it.
-- **Veil-Glass** ⭐ (Veil Keepers, Hunters, Admins) — Reveals whether an observed individual is supernatural or has recently used supernatural ability.
+- **Veil-Glass** ⭐ (Veil Keepers, the Imbued, Admins) — Reveals whether an observed individual is supernatural or has recently used supernatural ability.
 - **The Weighing Bowl** 🔶 — Heats when either party in a sworn agreement intends deception. Used historically in Shadow Directorate treaty negotiations.
 - **The Ossian Ledger** ✅ (Ossian Sorcerers, Archivists) — Writing in blood is permanently preserved; previous owners' entries can sometimes be read in dreams.
 - **Sundering Shard** ⚠ (RbN Original, ST only) — A fragment of crystallized Wyrd energy that amplifies nearby abilities but attracts Wyrdstorm-born anomalies over time.
