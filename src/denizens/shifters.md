@@ -1,15 +1,11 @@
 ---
 layout: layouts/dossier.njk
 splat: shifters
-title: Shifters
+title: SHIFTERS: THE CHANGING KIN
 designation: DENIZEN_02 — SHIFTER
 clearance: PUBLIC
 eyebrow: The Restored — Warriors of Eshtarra the Younger
 order: 2
----
-
-# SHIFTERS: THE CHANGING KIN
-
 ---
 
 ## WHAT A SHIFTER IS
