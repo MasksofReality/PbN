@@ -1,4 +1,10 @@
-# **Making a Lilum**
+---
+layout: layouts/dossier.njk
+title: Kindred Creation Guide
+designation: ARCHIVE_09 — KINDRED CREATION
+clearance: PUBLIC
+eyebrow: Building A Life in the Basilica
+---# **Making a Lilum**
 
 Lilum use the universal creation standard, unmodified. Nothing on this list is a bloodline's to change.
 
