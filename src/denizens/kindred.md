@@ -1,6 +1,6 @@
 ---
 layout: layouts/dossier.njk
-splat: kindred/lilum
+splat: kindred
 title: Lilum - The Children of Lilith
 designation: DENIZEN_01 — KINDRED (LILUM)
 clearance: PUBLIC

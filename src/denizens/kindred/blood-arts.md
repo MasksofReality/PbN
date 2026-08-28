@@ -1,6 +1,6 @@
 ---
 layout: layouts/dossier.njk
-splat: kindred/lilum
+splat: kindred
 title: The Blood Arts
 designation: ARCHIVE — BLOOD ARTS
 clearance: PUBLIC

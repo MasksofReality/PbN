@@ -1,6 +1,6 @@
 ---
 layout: layouts/dossier.njk
-splat: kindred/lilum
+splat: kindred
 title: Vitae and the Cost of Immortality
 designation: ARCHIVE — VITAE & MORTALITY
 clearance: PUBLIC

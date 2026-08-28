@@ -1,6 +1,6 @@
 ---
 layout: layouts/dossier.njk
-splat: kindred/lilum
+splat: kindred
 title: Brujah
 designation: BLOODLINE — BRUJAH
 clearance: PUBLIC

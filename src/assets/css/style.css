@@ -30,14 +30,15 @@
 }
 
 /* ===== Per-splat accent colors — matched to the God-Machine's own entity registry ===== */
-.splat-vampire { --accent: var(--splat-vampire); }
-.splat-werewolf { --accent: var(--splat-werewolf); }
+.splat-kindred { --accent: var(--splat-vampire); }
+.splat-garou { --accent: var(--splat-werewolf); }
 .splat-lost { --accent: #2a6a8a; }
 .splat-hellion { --accent: #8a3a10; }
-.splat-gifted { --accent: #6b23a0; }
-.splat-mortals { --accent: #6b6b4a; }
-.splat-hunter { --accent: var(--splat-hunter); }
+.splat-sorcerers { --accent: #6b23a0; }
+.splat-humans { --accent: #6b6b4a; }
+.splat-imbued { --accent: var(--splat-hunter); }
 .splat-half-damned { --accent: var(--splat-half-damned); }
+.splat-metahumans { --accent: #3a8a7a; }
 
 * { box-sizing: border-box; }
 

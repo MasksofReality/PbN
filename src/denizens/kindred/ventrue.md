@@ -1,6 +1,6 @@
 ---
 layout: layouts/dossier.njk
-splat: kindred/lilum
+splat: kindred
 title: Ventrue
 designation: BLOODLINE — VENTRUE
 clearance: PUBLIC

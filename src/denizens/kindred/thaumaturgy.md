@@ -1,6 +1,6 @@
 ---
 layout: layouts/dossier.njk
-splat: kindred/lilum
+splat: kindred
 title: Thaumaturgy
 designation: ARCHIVE — RESTRICTED (THAUMATURGY)
 clearance: PUBLIC
