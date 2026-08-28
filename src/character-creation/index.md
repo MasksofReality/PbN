@@ -37,7 +37,7 @@ Basilica Purgatory supports eight playable splats. All splats except Imbued may 
 | **Human** | Mundane | 6 Professions + Half-Damned | No |
 | **Imbued** | Human (Harrowed) | 6 Callings | No |
 
-Full mechanics, strengths, weaknesses, and subtype breakdowns for each splat live on their own [Denizens](/#) pages: [Lilum](/denizens/kindred/) · [Garou](/denizens/garou/) · [Lost](/denizens/lost/) · [Hellion](/denizens/hellion/) · [Gifted (Sorcerer & Psychic)](/denizens/gifted/) · [Mortals](/denizens/mortals/) · [Imbued](/denizens/imbued/) · [Half-Damned](/denizens/half-damned/).
+Full mechanics, strengths, weaknesses, and subtype breakdowns for each splat live on their own [Denizens](/#) pages: [Lilum](/denizens/kindred/) · [Garou](/denizens/garou/) · [Lost](/denizens/lost/) · [Hellion](/denizens/hellion/) · [Gifted (Sorcerer & Psychic)](/denizens/gifted/) · [Humans](/denizens/humans/) · [Imbued](/denizens/imbued/) · [Half-Damned](/denizens/half-damned/).
 
 ## Stats & Attributes
 

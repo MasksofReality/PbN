@@ -1,35 +1,34 @@
 ---
 layout: layouts/dossier.njk
-splat: mortals
-title: Mundane Humans
+splat: humans
+title: Humans
 designation: DENIZEN_06 — HUMAN
 clearance: PUBLIC
 eyebrow: In Persistence, Lies Strength
 order: 6
 ---
-## **Before you begin**
 
-This is the entry for ordinary human beings—those typically referred to as "Mundanes" by Nightfolk. Sorcerers and Metahumans have sections of their own, and a character who becomes a Sorcerer stops using this one; the two genuine roads out are covered further down. Ghouls are not a separate splat. A ghouled mortal is still a Mundane Human at the end of the day, something many have found out the hard way when their Vitae supply gets cut off.
+## Before You Begin
 
-Mundanes are by their very nature, *mundane*—Everything they can do sits on the mundane sheet. Rather than supernatural powers, their strength lays in the institutions they belong to and the fact that nothing in the setting is hunting them for what they are.
+This is the entry for ordinary human beings — those typically referred to as "Mundanes" by Nightfolk, though there's no need to call yourself that. Sorcerers and Metahumans have sections of their own, and a character who becomes a Sorcerer stops using this one; the two genuine roads out are covered further down. Ghouls are not a separate splat. A ghouled mortal is still a Human at the end of the day, something many have found out the hard way when their Vitae supply gets cut off.
 
----
+Humans are, by their very nature, mundane — everything they can do sits on the mundane sheet. Rather than supernatural powers, their strength lies in the institutions they belong to and the fact that nothing in the setting is hunting them for what they are.
 
-## **Being human in 200 TE**
+## Being Human in 200 TE
 
-Humans are not the oldest of the world's peoples, but they are the most stubbornly persistent. Mankind came through the Crash, the War of Ruination, the Sundering, and a century of wandering the drowned ruins as caravan-tribes, armed with nothing but the refusal to lie down and die—even at the end of the world as they knew it.
+Humans are not the oldest of the world's peoples, but they are the most stubbornly persistent. Mankind came through the Crash, the War of Ruination, the Sundering, and a century of wandering the drowned ruins as caravan-tribes, armed with nothing but the refusal to lie down and die — even at the end of the world as they knew it.
 
 Roughly 150 million people are alive worldwide. That is a mere one and a half percent of the ancient peak of ten billion. Nine tenths of the land is underwater, most of what is left is uninhabited badlands, and almost everyone alive lives behind the shimmer of a Hearthstone's stasis field, because the alternatives are aberrants, wyrdstorms and radiation.
 
 Sorcerers worked out the Hearthbind Ritual in 75 TE and the first Basilica rose at New Tenochtitlan. Eighteen of the nineteen still function. The exception is Mount Hagen, besieged by the Hag-Queen Rangda in 130 TE and abandoned by its peers; it withstood three years of sustained assaults and fell in 133 TE. Sparse reports suggest that behind its stolen barrier, humans are livestock.
 
-Your character lives in the City-Isle of Purgatory, in the Tides of Plenty, on an island that teleports. Purgatory is the exception to almost everything above, starting with the shimmer: it has no Hearthstone and never has, because the Governor's hold on the Wandering Isle admits no competing anchor. What keeps the city safe is the Governor's regard—a less comforting arrangement than a barrier you can watch—and it has one visible consequence: the ambient aether here is thick, unflattened, and never quite still. A human notices it every day.
+Your character lives in the City-Isle of Purgatory, in the Tides of Plenty, on an island that teleports. Purgatory is the exception to almost everything above, starting with the shimmer: it has no Hearthstone and never has, because the Governor's hold on the Wandering Isle admits no competing anchor. What keeps the city safe is the Governor's regard — a less comforting arrangement than a barrier you can watch — and it has one visible consequence: the ambient aether here is thick, unflattened, and never quite still. A human notices it every day.
 
 The city began as the League's polite oubliette: the place where you sent anyone too powerful to kill, back when the Governor's Toll made getting out a matter of tithing time or magic, and tithing wrong meant never arriving anywhere. That founding stock of exiles, fugitives and inconvenient people never washed out of the city's character. The waygates opened about ten years ago and changed what the island is for; now every Basilica's goods, agents and secrets pass through the same crowded streets. The Council of Six governs day to day, five of its seats belong to the Grand Factions, and the Triune watch from a distance. Everyone came from somewhere else, everyone has an angle, and nothing is free, least of all the things that claim to be.
 
-## The history your character stood in
+## The History Your Character Stood In
 
-This matters more to a human character than any cosmology, because your character—or their parents—were standing in it.
+This matters more to a human character than any cosmology, because your character — or their parents — were standing in it.
 
 **153 TE, the Second Masquerade ends.** The Shadow Directorate announced the Nightfolk to the League. In the Week of Torches that followed, roughly 6,000 Nightfolk died and roughly four times that many humans. Humans did the hunting. Humans took the heavier losses.
 
@@ -39,9 +38,11 @@ This matters more to a human character than any cosmology, because your characte
 
 **180 TE, the Pax Nocturnorum.** Negotiated by a new generation, largely the empathetic scions of the wealthy Sorcerer Clans. The Shadow Directorate became co-equal to the League Council.
 
+<div class="callout">
 Do the arithmetic on your sheet before you write your character's history. Anyone over about 25 was alive under the Ascendancy. Anyone over 30 has childhood memories of it. Anyone over 47 remembers the year the world found out. Somebody in your family was on one side of it or the other, and in Purgatory it is considered very rude to ask which.
+</div>
 
-## What every human knows
+## What Every Human Knows
 
 The public face of the world, all of it true as far as it goes.
 
@@ -55,9 +56,40 @@ Paratech runs everything. Old World scitech goes haywire near a wyrdstorm; parat
 
 Outside is lethal. Aberrants, anomalies, radiation, wyrdstorms.
 
-## What nobody knows
+## What Nobody Knows
 
 This is where this splat's horror lives, because a human cannot reach any of it by accident. The old assumption that a mortal's story begins with discovering monsters are real does not survive 200 TE. A registered Lilum runs a bar three doors down and pays taxes on it.
 
-What a citizen cannot know is what sits underneath. What the Interstice was, and why survivors came out of it with a decade missing. What the quintessence reactors run on. Who or what the Governor is. What the Inner Reaches do with distance and time, given that no expedition has crossed the same interior twice or produced a map. Why heartglass grows toward the living. What the Fae-Hags of the Dreadmire mean when they call the Governor "It"—and why they refuse to say more. How the Star-Chandlers of Sana'a know where the Isle will surface. And where the Awakened went.
+What a citizen cannot know is what sits underneath. What the Interstice was, and why survivors came out of it with a decade missing. What the quintessence reactors run on. Who or what the Governor is. What the Inner Reaches do with distance and time, given that no expedition has crossed the same interior twice or produced a map. Why heartglass grows toward the living. What the Fae-Hags of the Dreadmire mean when they call the Governor "It" — and why they refuse to say more. How the Star-Chandlers of Sana'a know where the Isle will surface. And where the Awakened went.
 
+## The Six Professions
+
+| Profession | Priority | Required Background | Practice (1 WP per scene) | Stigma |
+|---|---|---|---|---|
+| **[Enforcer](/denizens/humans/enforcer/)** | Phys / Soc / Ment | Contacts (watch, Vigiles, security) 1 | Known Quantity: institutional access, no roll | On the Roster: findable, and harder to hide from institutions |
+| **[Broker](/denizens/humans/broker/)** | Soc / Ment / Phys | Resources 1 | Everything Has a Price: locate anything, staff set the cost | The Ledger: Obligations accrue and bite at three |
+| **[Physician](/denizens/humans/physician/)** | Ment / Soc / Phys | Resources 1 | Everyone Needs a Doctor: reach a person or their file | Everyone Knows What You Know: pressure from all sides |
+| **[Archivist](/denizens/humans/archivist/)** | Ment / Soc / Phys | Contacts (scholarly) 1 | The Record Remembers: find anything in the human record | The Gaps Call: roll Willpower to let a thread go |
+| **[Shepherd](/denizens/humans/shepherd/)** | Soc / Ment / Phys | Allies (community) 1 | The Voice the People Hear: collective action | Held to the Standard: betray them and the dots go, unrefunded |
+| **[Ghostwright](/denizens/humans/ghostwright/)** | Ment / Phys / Soc | Contacts (salvage, grid) 1 | If It Runs: Intelligence plus Technology at difficulty 7 | Institute Interest: a 0 to 5 counter that escalates |
+
+## Further Reading
+
+- **[Human Creation Guide](/character-creation/makinghuman/)** — the full character creation process
+- **[Professional Practices](/denizens/humans/practices/)** — what a Practice is, what a Stigma costs, and how Standing works, plus Human Merits and Implants
+- **[Draining, Death and the Ways Out](/denizens/humans/mortality/)** — feeding, Vitality, Attrition, death, Sorcery, the Gentry and Ghouls
+- **[Stability, Triggers and Eldritch](/denizens/humans/stability/)** — the added human triggers and what a dot of Eldritch actually buys you
+
+## A Note on Playing a Human
+
+Nightfolk are more powerful in direct terms. More durable, more capable in specific domains, less exposed. Your Willpower 5 defence will lose to a capstone Art most nights it is tested.
+
+What humans have is different in kind. Roots, in a city that has none. The whole XP budget pointed at a single sheet, which after a year means you are simply better at being a person than anyone else in the room. A Stability track with nothing eating it. Access to the institutions that actually run the City-Isle, used openly, by someone with a legitimate place in them.
+
+And the Pax. Read it as a human rather than as a Nightfolk. It exists because 6,000 Nightfolk died in a single panic and four times that many humans died causing it; it holds because both sides remember. Nightfolk need it more than you do. They are registered and you are not. They can lose their status and you cannot. A Physician forty years into practice knows things no elder does. An Archivist a decade into the manifests knows this city from the inside. A Shepherd with their ward's real trust can do something no Art replicates.
+
+The question is not how to compete with the Nightfolk. It is what ordinary people do with persistence, community, and a life lived in the open, in a city where nothing is free, least of all the things which claim to be.
+
+*Humanity survived the end of the world through sheer persistence. You are the proof that it worked.*
+
+<p class="eyebrow">See also: <a href="/character-creation/">Character Creation Guide</a></p>

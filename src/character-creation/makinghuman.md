@@ -1,9 +1,3 @@
-<!--
-TARGET URL: https://purgatorybynight.com/character-creation/makinghuman/
-PARALLEL TO: /character-creation/makinglilum/
-Structure deliberately mirrors the Lilum page section for section:
-  standard table -> derived values -> how the "power" rolls -> spending 21 -> choose your sub-splat -> what else
--->
 ---
 layout: layouts/dossier.njk
 title: Human Creation Guide
@@ -11,11 +5,8 @@ designation: ARCHIVE_17 — HUMAN CREATION
 clearance: PUBLIC
 eyebrow: Building A Life in the Basilica
 ---
-# Human Creation Guide
 
-Building A Life in the Basilica
-
-## Making a Mundane
+## Making a Human
 
 Humans use the universal creation standard without modification. There is no human variant of this table.
 
@@ -39,9 +30,9 @@ Write your **Demeanour** sharply: once per cycle, when acting squarely within it
 
 Only three derived values need recording.
 
-**Permanent Stability = Conscience + Self-Control.** Humans hold no Eldritch at creation, so nothing is subtracted. Nothing about being human erodes it afterward either. See [Stability, Triggers and Eldritch](https://purgatorybynight.com/denizens/humans/stability/).
+**Permanent Stability = Conscience + Self-Control.** Humans hold no Eldritch at creation, so nothing is subtracted. Nothing about being human erodes it afterward either. See [Stability, Triggers and Eldritch](/denizens/humans/stability/).
 
-**Vitality = Stamina + 7.** Humans are the only characters who track it. It is what a predator takes when they feed, and it is why Stamina is a survival stat for a mortal as it never was before. See [Draining, Death and the Ways Out](https://purgatorybynight.com/denizens/humans/mortality/).
+**Vitality = Stamina + 7.** Humans are the only characters who track it. It is what a predator takes when they feed, and it is why Stamina is a survival stat for a mortal as it never was before. See [Draining, Death and the Ways Out](/denizens/humans/mortality/).
 
 **Health** is the standard seven levels on one track. No second track.
 
@@ -84,7 +75,7 @@ There is no Security, Research, Counseling, History or Occult in this system, an
 
 Arcane is a taught subject now. Post-Pax, the supernatural is a curriculum: registries, splat taxonomies, ward theory, Directorate law. It is learned the way any subject is learned, and **the first three dots can be bought freely**, at creation or after.
 
-Going past the third dot means learning enough about how the cosmos works to attract the attention of things that are bad for your mental health, and it carries a **mandatory point of Eldritch**. Arcane 4 requires staff approval and a dedicated scene, and a Mundane Human must transition to Sorcerer in the process. **You cannot take Arcane above the third dot at creation.**
+Going past the third dot means learning enough about how the cosmos works to attract the attention of things that are bad for your mental health, and it carries a **mandatory point of Eldritch**. Arcane 4 requires staff approval and a dedicated scene, and a Human must transition to Sorcerer in the process. **You cannot take Arcane above the third dot at creation.**
 
 ## Backgrounds
 
@@ -96,20 +87,20 @@ Backgrounds are story-gated in both directions: you buy them where play has esta
 
 Each Profession's suggested build sums exactly to 7/5/3 attributes, 13/9/5 abilities, five Backgrounds and 21 freebies, and includes its full Practice, Stigma, added Stability trigger and Profession-specific Merits. Attribute priority is set by your Profession, and swapping it needs staff approval at application rather than a note on your sheet.
 
-- **[Enforcer](https://purgatorybynight.com/denizens/humans/enforcer/)** — Phys / Soc / Ment
-- **[Broker](https://purgatorybynight.com/denizens/humans/broker/)** — Soc / Ment / Phys
-- **[Physician](https://purgatorybynight.com/denizens/humans/physician/)** — Ment / Soc / Phys
-- **[Archivist](https://purgatorybynight.com/denizens/humans/archivist/)** — Ment / Soc / Phys
-- **[Shepherd](https://purgatorybynight.com/denizens/humans/shepherd/)** — Soc / Ment / Phys
-- **[Ghostwright](https://purgatorybynight.com/denizens/humans/ghostwright/)** — Ment / Phys / Soc
+- **[Enforcer](/denizens/humans/enforcer/)** — Phys / Soc / Ment
+- **[Broker](/denizens/humans/broker/)** — Soc / Ment / Phys
+- **[Physician](/denizens/humans/physician/)** — Ment / Soc / Phys
+- **[Archivist](/denizens/humans/archivist/)** — Ment / Soc / Phys
+- **[Shepherd](/denizens/humans/shepherd/)** — Soc / Ment / Phys
+- **[Ghostwright](/denizens/humans/ghostwright/)** — Ment / Phys / Soc
 
 ## What Else You'll Need
 
 Character creation gives you the numbers. These pages cover everything you'll actually use them for once you're in play:
 
-- **[Professional Practices](https://purgatorybynight.com/denizens/humans/practices/)** — what a Practice is, what a Stigma costs, and how Standing works
-- **[Draining, Death and the Ways Out](https://purgatorybynight.com/denizens/humans/mortality/)** — feeding, Vitality, Attrition, Final Death, Sorcery, the Gentry and Ghouls
-- **[Stability, Triggers and Eldritch](https://purgatorybynight.com/denizens/humans/stability/)** — the added human triggers and what a dot of Eldritch actually buys you
-- **[Merits & Flaws](https://purgatorybynight.com/character-creation/merits-and-flaws/)** — see the Mundane Human Merits and Implants sections
+- **[Professional Practices](/denizens/humans/practices/)** — what a Practice is, what a Stigma costs, and how Standing works
+- **[Draining, Death and the Ways Out](/denizens/humans/mortality/)** — feeding, Vitality, Attrition, Final Death, Sorcery, the Gentry and Ghouls
+- **[Stability, Triggers and Eldritch](/denizens/humans/stability/)** — the added human triggers and what a dot of Eldritch actually buys you
+- **[Merits & Flaws](/character-creation/merits-and-flaws/)** — see the Human Merits and Implants sections
 
-See also: [Humans overview](https://purgatorybynight.com/denizens/humans/) · [Character Creation Guide](https://purgatorybynight.com/character-creation/)
+See also: [Humans overview](/denizens/humans/) · [Character Creation Guide](/character-creation/)

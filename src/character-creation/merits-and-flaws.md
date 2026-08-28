@@ -65,11 +65,17 @@ No Merit here adds dice to a Blood Art roll — where one touches an Art at all,
 
 **Flaws:** Essence Addiction ⭐, Dharma Conflict ⭐, Pact Restriction ⭐ (Sorcerer — design collaboratively with your Mentor), School Rivalry 🔶 (Sorcerer schools replaced the old Traditions; professional rivalries are the closest thing that remains).
 
-### Human & Imbued
+### Human
 
-**Merits:** Profession Expertise 🔧 (RbN Original — reduces difficulty of core Profession rolls by 2), Cyber-Adaptable 🔧 (RbN Original — for characters planning multiple cyber-modifications), Society of Leopold Contacts 🔧 (Society contacts know what you are and can place demands on you), Psychic Potential ⚠ (elevated Veil risk).
+The Human splat has its own dedicated Merit list — Local, Prepared, Stubborn, Scarred Over, Unremarkable, Hard to Rattle, Trusted Face, Registered Donor, and Second Wind — plus a set of cybernetic Implants (Optical Suite, Grid Jack, Concealed Mount, Reinforced Frame). See the [Professional Practices](/denizens/humans/practices/) page for the full tables, and each [Profession's page](/denizens/humans/) for its own Profession-specific Merits.
 
-**Flaws:** Supernatural Awareness ⭐, Marked by the Machine 🔧 (RbN Original — the Guild isn't actively hunting you yet, but you're in the system), Mundane Blindness 🔶, Forsworn ⭐ (the weight of having broken faith with something you once served).
+**Flaws:** Supernatural Awareness ⭐, Marked by the Machine 🔧 (RbN Original — the Guild isn't actively hunting you yet, but you're in the system), Mundane Blindness 🔶.
+
+### Imbued
+
+**Merits:** Society of Leopold Contacts 🔧 (Society contacts know what you are and can place demands on you), Psychic Potential ⚠ (elevated Veil risk).
+
+**Flaws:** Forsworn ⭐ (the weight of having broken faith with something you once served). See the [Imbued overview](/denizens/imbued/) for the full ruleset — Pneuma, the Callings, and the Sacred Arts.
 
 ## Banned Merits & Flaws
 
