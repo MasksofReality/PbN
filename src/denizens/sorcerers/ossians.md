@@ -1,38 +1,68 @@
 ---
 layout: layouts/dossier.njk
-splat: gifted
+splat: sorcerers
 title: Ossians
-designation: SORCERER SCHOOL — OSSIANS
+designation: SCHOOL — OSSIANS
 clearance: PUBLIC
-eyebrow: Gifted — Sorcerer
+eyebrow: Sorcerer School — The Path of the Bone Ledger
 ---
 
-*Mediumship · Necromancy · Necronics*
+*Traditions: Mediumship · Necronics · Necromancy*
 
-<p class="eyebrow">← Back to <a href="/denizens/gifted/">Gifted</a></p>
+<p class="eyebrow">← Back to <a href="/denizens/sorcerers/">Sorcerer overview</a></p>
 
-## Overview
+## Who They Are
 
-Ossians are masters of death, the dead, and the technology of death. Their three areas of practice are Mediumship (communication with and management of spirits), Necromancy (command of the dead and death energy), and Necronics (electronic-technological interface with ghostly bioelectricity). Ossians carry the weight of their practice visibly — every use of Necromancy costs them physically, and their relationship with the dead is more intimate than any other School's.
+The death-substrate branch, and the only School with an instrumented practice. Necronics is the electronic-technological interface with ghostly bioelectricity, which means an Ossian's work shows up on their own equipment. Their relationship with the dead is closer than any other School's, and it is not a metaphor that every Working costs them blood.
 
-## Starting Attribute Priority
+**Attribute priority:** Mental primary (7) · Social secondary (5) · Physical tertiary (3)
 
-| Category | Priority | Starting Points |
-|---|---|---|
-| Mental | Primary | 7 points |
-| Social | Secondary | 5 points |
-| Physical | Tertiary | 3 points |
+**Strength.** They are the only permanent answer. Nobody else can settle a haunting for good. The Circle of Bone & Ivy needs Ossians structurally and will extend them enormous latitude, Kathmandu treats a good one as clergy, and the Johannesburg mining unions keep them on retainer under a different job title.
 
-## School Abilities
+**Weakness.** It costs blood and leaves records.
 
-**●○○○○ Level 1** *(No Gnosis)* — Perceive the Dead: see and hear all Ghosts and Wraiths present, understanding their state and purpose. Roll Perception + Occult (diff 5). Requires a personal bone instrument.
+<div class="callout">
+<strong>The bone instrument.</strong> Every Ossian carries a small preserved piece of a specific dead person's remains. Whose, and why, is set by tradition and by the character. Without it, nothing on this Path functions. No Tradition, no rank, no exceptions.
+</div>
 
-**●●○○○ Level 2** *(No Gnosis)* — Speak with Dead: two-way communication with a specific spirit, who may refuse but not ignore entirely. Roll Charisma + Occult (diff 6). 1 Bashing damage from the emotional toll.
+<div class="callout callout--rare">
+<strong>The Bone Tithe.</strong> Every Working on this Path costs the following in addition to Mana, drawn through the instrument: ranks 1–2 cost <strong>1 bashing</strong>, unsoakable; ranks 3–5 cost <strong>1 lethal</strong>, unsoakable. The Tithe is paid on activation, including on a failure or a botch, including at rank 1 where the Working itself is free. It is not soaked, not reduced by armour, and not avoided by Pushing. An Ossian's free Working is not free.
+</div>
 
-**●●●○○ Level 3** *(1 Gnosis)* — Necronic Scan: use electronics to detect and map spiritual activity in a location. Roll Intelligence + Technology (diff 7). Physical contact during the scan risks 1 Aggravated from bioelectric feedback.
+**Records.** A Necronics practitioner's instruments log. Tape, plate, or trace, the log exists, it is admissible, and destroying it is its own offence. Mediumship and Necromancy leave no automatic record, which is exactly why the Vigiles prefer to license the Ossians who use machines.
 
-**●●●●○ Level 4** *(2 Gnosis)* — Command the Dead: issue an instruction a spirit must obey for a scene, if it fails to resist. Roll Willpower vs. Willpower (diff 8). 2 Bashing damage from the command toll.
+## The Path
 
-**●●●●● Level 5** *(3 Gnosis)* — Necronic Severance: permanently sever a ghost's tie to a location or person. Roll Intelligence + Technology or Willpower (diff 9). 3 Bashing damage; the freed entity's fate is Storyteller-determined.
+| Rank | All Traditions |
+|---|---|
+| ●○○○○ | **Cold Reading.** Read the dead of a place: how many, roughly how old, whether a death happened here and how violent it was. *One action.* Free + 1 bashing |
+| ●●○○○ | **Parley.** Open a channel to one ghost within reach of the instrument. It may refuse to answer; it cannot refuse to hear you. *One minute.* 1 Mana + 1 bashing |
+| ●●●○○ | **The Bone Ledger.** Determine what holds a specific ghost to the world. 1 net success names one Anchor; 2–3 give its nature and rough location; 4+ give the whole ledger. Contested where the ghost resists. *Five minutes.* 2 Mana + 1 lethal |
+| ●●●●○ | **Binding.** Compel a ghost or spirit to service, silence, or a place, for one day per net success. Contested. *Fifteen minutes; etched green leystone.* 3 Mana + 1 lethal. **This is the licensed act** — every Basilica requires a filed writ; without one it is a Pax breach |
+| ●●●●● | **Quietus.** End a haunting: **Laid to rest** (the dead consent and pass on, requires 4+ net successes and something the Ledger told you) or **Unmade** (banished to the underworld for years equal to successes, contested, deals aggravated to corpus, unsoaked, no dodge). *One hour or more; a significant remains-cost specific to your Tradition.* 5 Mana + 1 lethal |
 
-<p class="eyebrow">See also: <a href="/denizens/gifted/">Gifted overview</a> · <a href="/character-creation/">Character Creation Guide</a></p>
+### Spirit Summoner
+
+**●○○○○** Felt rather than measured: impressions, and occasionally an unwanted one.
+
+**●●○○○** Spoken, aloud, both ways. Anyone present hears your half and nobody hears theirs.
+
+**●●●○○–●●●●●** Bound by oath and by name. It can argue, and it will.
+
+### Necrotechnician
+
+**●○○○○** Writes to tape or plate. Admissible to the Vigiles, and permanently a record of where you have been.
+
+**●●○○○** Rendered as signal: legible to a room, replayable, and disputable.
+
+**●●●○○–●●●●●** Bound to an apparatus, which can be carried, stolen, or switched off by someone who does not understand it.
+
+### Necromancer
+
+**●○○○○** Read from remains rather than from the room: the body tells you, if there is a body.
+
+**●●○○○** Requires a piece of the specific dead in question, and reaches them wherever they are.
+
+**●●●○○–●●●●●** Bound to remains, which is the oldest method, the most durable, and the least defensible in a hearing.
+
+<p class="eyebrow">See also: <a href="/denizens/sorcerers/">Sorcerer overview</a> · <a href="/character-creation/makingsorcerer/">Sorcerer Creation Guide</a> · <a href="/denizens/sorcerers/workings/">Workings</a></p>
