@@ -39,6 +39,7 @@
 .splat-imbued { --accent: var(--splat-hunter); }
 .splat-half-damned { --accent: var(--splat-half-damned); }
 .splat-metahumans { --accent: #3a8a7a; }
+.splat-dhampir { --accent: var(--splat-half-damned); }
 
 * { box-sizing: border-box; }
 
