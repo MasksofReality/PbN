@@ -98,4 +98,4 @@ In extreme circumstances, a Kinfolk may shift fully into Crinos. This is not a p
 | Key Strength | Blood of the Nation — Tribal recognition, Delirium immunity, spiritual sensitivity |
 | Key Weakness | The Blood's Call — Rage that cannot be fully controlled |
 
-<p class="eyebrow">See also: <a href="/denizens/half-damned/">Half-Damned overview</a> · <a href="/denizens/werewolf/">Werewolf</a> · <a href="/character-creation/">Character Creation Guide</a></p>
+<p class="eyebrow">See also: <a href="/denizens/half-damned/">Half-Damned overview</a> · <a href="/denizens/garou/">Garou</a> · <a href="/character-creation/">Character Creation Guide</a></p>
