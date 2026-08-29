@@ -9,7 +9,7 @@ eyebrow: Metahuman Reference
 
 These two Arts turn up across all six Inheritances. You cannot start with either one unless you spend freebie points on it.
 
-## Wyrdsense
+<h2 id="wyrdsense">Wyrdsense</h2>
 
 *Attunement to the paracausal and to reality distortions.*
 
@@ -23,7 +23,7 @@ These two Arts turn up across all six Inheritances. You cannot start with either
 
 **●●●●● The Shape of It.** 5 Essence. For one scene, perceive the entire paracausal architecture of an area: every active ward, spirit, leyline, and flaw in it. Triggers a mandatory Stability roll for witnessing eldritch reality.
 
-## Aegis
+<h2 id="aegis">Aegis</h2>
 
 *Psychic shielding and mental fortitude.*
 

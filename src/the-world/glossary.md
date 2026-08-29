@@ -78,8 +78,6 @@ This is not a standard World of Darkness setting. Many familiar terms have chang
 
 **Imbued** — Humans who died to an aberrant and returned through the Harrowing: bound to an unexplained Edict, blinded and given the Sight in trade, and driven to answer one of six Callings (Hunt, Hold, Witness, Weigh, Mend, Warn). They don't exist purely to destroy the supernatural — they exist to maintain balance and keep the Veil intact.
 
-**Half-Damned** — Humans with one foot in the supernatural world: Kinfolk, Ghouls, Projectors, and Dhampir.
-
 ## Common Abbreviations
 
 | Term | Meaning |

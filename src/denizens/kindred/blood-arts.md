@@ -139,7 +139,7 @@ This is muscle, not unmaking. Nothing here deals aggravated at any tier.
 
 **●●●●● The Blow That Ends It** *(5 Vitae, once per scene)*. One strike. **Art damage, lethal, unsoaked; dodge allowed unless the target is held, pinned or otherwise helpless.** It destroys any mundane object and breaches any ordinary wall automatically as part of the same action.
 
-## Presence *(Ventrue, Toreador, Nosferatu)*
+<h2 id="presence-ventrue-toreador-nosferatu">Presence <em>(Ventrue, Toreador, Nosferatu)</em></h2>
 
 **In Nosferatu hands, every tier reads as dread rather than glory.** The mechanics are identical; the fiction is that this creature knows something about you. A Nosferatu's Awe applies to Intimidation and information-gathering rather than to charm, and it never helps a first impression go *well*.
 

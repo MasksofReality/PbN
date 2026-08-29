@@ -17,7 +17,7 @@
   --blood: #cc2222;
   --border: rgba(57, 232, 58, 0.18);
   --splat-hunter: #7a5520;
-  --splat-half-damned: #5a1a5a;
+  --splat-dhampir: #5a1a5a;
   --splat-werewolf: #3d7a20;
   --splat-vampire: #cc2222;
   --accent: var(--anchor-teal-bright);
@@ -37,9 +37,8 @@
 .splat-sorcerers { --accent: #6b23a0; }
 .splat-humans { --accent: #6b6b4a; }
 .splat-imbued { --accent: var(--splat-hunter); }
-.splat-half-damned { --accent: var(--splat-half-damned); }
 .splat-metahumans { --accent: #3a8a7a; }
-.splat-dhampir { --accent: var(--splat-half-damned); }
+.splat-dhampir { --accent: var(--splat-dhampir); }
 
 * { box-sizing: border-box; }
 

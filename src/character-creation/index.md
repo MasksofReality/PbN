@@ -28,16 +28,16 @@ Basilica Purgatory supports eight playable splats. All splats except Imbued may 
 
 | Splat | Type | Common Subtypes | Rare Path? |
 |---|---|---|---|
-| **Vampire (Lilum)** | Supernatural | 6 Bloodlines | Yes — other bloodlines |
-| **Werewolf (Garou)** | Supernatural | 6 Tribes | Yes — other tribes |
+| **Kindred** | Supernatural | 6 Bloodlines | Yes — other bloodlines |
+| **Garou** | Supernatural | 6 Tribes | Yes — other tribes |
 | **Lost** | Supernatural | 6 Seemings | Yes — Dreamborne Fae |
 | **Hungry Dead** | Supernatural | 5 Dharma paths | **Rare — full splat, Storyteller-share only** |
 | **Sorcerer** | Supernatural | 6 Schools | No |
 | **Psychic** | Human (Hidden) | 6 Types | No |
-| **Human** | Mundane | 6 Professions + Half-Damned | No |
+| **Human** | Mundane | 6 Professions | No |
 | **Imbued** | Human (Harrowed) | 6 Callings | No |
 
-Full mechanics, strengths, weaknesses, and subtype breakdowns for each splat live on their own [Denizens](/#) pages: [Lilum](/denizens/kindred/) · [Garou](/denizens/garou/) · [Lost](/denizens/lost/) · [Sorcerers](/denizens/sorcerers/) · [Metahumans](/denizens/metahumans/) · [Humans](/denizens/humans/) · [Imbued](/denizens/imbued/) · [Half-Damned](/denizens/half-damned/). The Hungry Dead is a Rare splat — ask your Mentor or a Storyteller if you're interested.
+Full mechanics, strengths, weaknesses, and subtype breakdowns for each splat live on their own [Denizens](/#) pages: [Kindred](/denizens/kindred/) · [Garou](/denizens/garou/) · [Lost](/denizens/lost/) · [Sorcerers](/denizens/sorcerers/) · [Metahumans](/denizens/metahumans/) · [Humans](/denizens/humans/) · [Imbued](/denizens/imbued/). The Hungry Dead is a Rare splat — ask your Mentor or a Storyteller if you're interested.
 
 ## Stats & Attributes
 

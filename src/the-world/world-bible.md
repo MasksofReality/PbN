@@ -205,7 +205,7 @@ Today, safety depends on *downplaying* the danger within the walls. So long as m
 
 Full character creation information for each is in the [Character Creation Guide](/character-creation/).
 
-**Vampire (Lilum).** When Caine walked into Oblivion, Lilith intervened and gave every vampire a choice. Those who accepted rebirth through her covenant became the Lilum — still vampiric in nature, but tied to the Dark Mother rather than the First Murderer. The old Camarilla, Sabbat, and Anarch exist only in historical accounts; in modern nights, Vampires organize through the Factions. The six common bloodlines are Ventrue, Toreador, Malkavian, Gangrel, Nosferatu, and True Brujah.
+**Vampire (Lilum).** When Caine walked into Oblivion, Lilith intervened and gave every vampire a choice. Those who accepted rebirth through her covenant became the Lilum — still vampiric in nature, but tied to the Dark Mother rather than the First Murderer. The old Camarilla, Sabbat, and Anarch exist only in historical accounts; in modern nights, Vampires organize through the Factions. The six common bloodlines are Ventrue, Toreador, Malkavian, Gangrel, Nosferatu, and Brujah.
 
 **Werewolf (Garou).** When Gaia the Elder died, every Garou not sheltered in a spiritual realm was erased from existence. Eshtarra's ascension as Gaia the Younger remade them as the Gaian Shifters — servants bound to cleanse the world's spiritual contamination. They carry no silver bane; their bane is obsidian. The six surviving tribes are Black Furies, Fianna, Get of Fenris, Glass Walkers, Silent Striders, and Children of Eshtarra.
 
@@ -217,7 +217,7 @@ Full character creation information for each is in the [Character Creation Guide
 
 **Psychics.** Psychic ability can emerge in any human born inside the Basilica — and it is a liability, not a gift, since the general population mistakes it for Awakened magic. Every Psychic learns to mask their ability as Sorcerer-style practice.
 
-**Humans.** The majority of Basilica Purgatory. They run the city, staff its institutions, and outnumber every supernatural type combined. Human characters choose a Profession. Half-Damned are humans with one foot in the supernatural world: Kinfolk, Ghouls, Projectors, and Dhampir.
+**Humans.** The majority of Basilica Purgatory. They run the city, staff its institutions, and outnumber every supernatural type combined. Human characters choose a Profession.
 
 **Imbued.** Humans who died to an aberrant and returned through the Harrowing, bound to an Edict none of them chose and none can explain. They don't hunt supernaturals purely to destroy them — each Calling (Hunt, Hold, Witness, Weigh, Mend, Warn) answers a different mandate, and together they exist to maintain balance and keep the Veil intact.
 

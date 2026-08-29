@@ -54,7 +54,7 @@ Past Incapacitated, further lethal or aggravated kills you the way it kills any 
 
 **Recalled.** At permanent Stability 0 the Imbued simply vanishes. Where they go, or if they are even alive, is unknown. As it is believed the force that made them is the one taking them away, it is commonly known as being *Recalled*.
 
-## The Vigil Codicil, and the Law
+<h2 id="the-vigil-codicil-and-the-law">The Vigil Codicil, and the Law</h2>
 
 You are not a BRD. You hold a separate instrument.
 
