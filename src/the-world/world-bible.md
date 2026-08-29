@@ -137,7 +137,7 @@ Everything is for sale in Tabriz, and always has been. Its Grand Bazaar was old 
 
 The steppe clans wandered through the whole Itinerant Period and were better at it than anyone — and when they finally raised a Hearthstone, they did it on their own terms. Ulaanbaatar is the caravan capital of the world: its Great Caravanserai outfits, insures, and blesses the overland trade of three continents, and its stormchaser fleets ride *toward* wyrdstorms to harvest fresh leystone from the twisted ground behind them, the most profitable insane profession in the Third Era. Half the city still lives in gers by choice and empties onto the steppe each season. Hospitality is sacred, cowardice is not, and every deal is sealed on horseback at least ceremonially.
 
-## 5\. How The World Works Now
+## How The World Works Now
 
 **TL;DR:** *Old World technologies no longer work reliably: reality is too unstable. Modern life runs on **Paratech** (complex, interlocking enchantments that mimic technology), anchored by city-core **Hearthstones** that hold back the storms and the monsters.*
 
