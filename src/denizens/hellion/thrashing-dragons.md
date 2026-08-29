@@ -23,7 +23,7 @@ Play a Thrashing Dragon to be in the middle of everything, moving faster than ev
 
 **Feeding.** From the living, up close, and often. This is the path most likely to keep a herd of willing mortals, most likely to fold feeding into whatever else it is doing, and most likely to burn a whole pool in one night for the pleasure of a warm body that breathes and tastes. Also the path most likely to be sitting at three Essence when something goes wrong, which is a Vitality imbalance trigger by itself.
 
-## Affinity: Black Wind
+<h2 id="black-wind">Affinity: Black Wind</h2>
 
 In hell the universe is your enemy. It lashes out and it never lets you catch your breath. A Hungry Dead who takes up the Demon Art of Motion learns that the only way to endure is to be faster, and that if you are aiming to hit you should be aiming to kill.
 

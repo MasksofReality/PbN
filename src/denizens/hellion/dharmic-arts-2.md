@@ -11,7 +11,7 @@ eyebrow: Hungry Dead Reference
 
 See [Dharmic Arts I](/denizens/hellion/dharmic-arts-1/) for the full Art roster table and the shared rules on Aligned/Nonaligned/Discordant tracks.
 
-## Jeweled Eyes
+<h2 id="jeweled-eyes">Jeweled Eyes</h2>
 
 *Demon Art · Wickedness · Open to every Fellowship*
 
@@ -27,7 +27,7 @@ Hell is efficient. It learns what you want, it learns what you fear, and it uses
 
 **●●●●● The Whole Wanting** — *5 Essence and 1 Willpower.* For the scene everyone who can perceive you sees whoever they want most, standing where you are standing, and understands without being told that you are the only road to it. Mortals are helpless and will hand over almost anything short of their own lives to keep looking. Anything supernatural contests, and even the ones who win spend the scene two difficulties worse on anything aimed at you, because winning does not mean not seeing it. When it drops they know precisely what was done and who did it, and for 28 days afterwards they go looking for that feeling again in whatever will approximate it. This is how Jeweled Eyes makes its long-term enemies, and hell taught you the trick for the same reason.
 
-## Tears of Hell
+<h2 id="tears-of-hell">Tears of Hell</h2>
 
 *Demon Art · Wickedness · Open to every Fellowship*
 
@@ -43,7 +43,7 @@ Miasma is the currency of the Ten-Thousand Hells and suffering is what mints it.
 
 **●●●●● The Scalding Word** — *5 Essence and 1 Willpower.* Everything you say for the scene manifests as hellish torment. Anyone who hears you rolls Grit or takes 1 aggravated damage and gives ground. Allies are not exempt and you cannot make them exempt.
 
-## Godbody of Blood
+<h2 id="godbody-of-blood">Godbody of Blood</h2>
 
 *Godbody Art · Vitality · Open to every Fellowship*
 
@@ -59,7 +59,7 @@ The Art that makes the resemblance to the Lilum literal, and the reason a certai
 
 **●●●●● Blood Curse** — *5 Essence and 1 Willpower.* Cause the blood of a target whose blood you have tasted this scene to begin to boil, dealing 1 point of aggravated damage. You can pay an additional essence each turn thereafter you do nothing else and continue the same effect for as long as you have the essence to fuel it.
 
-## Godbody of Jade
+<h2 id="godbody-of-jade">Godbody of Jade</h2>
 
 *Godbody Art · Denial · Open to every Fellowship*
 

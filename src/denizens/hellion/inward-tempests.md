@@ -23,7 +23,7 @@ Play an Inward Tempest for maximum freedom of movement between plots and faction
 
 **Feeding.** Opportunistically and without ceremony, which other paths read as either admirable honesty or appalling manners. This path travels, and travelling means taking what the night provides. Keyed to Balance, a Tempest ranks all four souls with no one of them able to hide, so no single feeding habit stays safe for long.
 
-## Affinity: Iron Mountain
+<h2 id="iron-mountain">Affinity: Iron Mountain</h2>
 
 You learned in hell that no pain is unbearable. Iron Mountain does not numb you. Every blow lands and hurts exactly as much as it should. It simply passes through, and you are still standing.
 

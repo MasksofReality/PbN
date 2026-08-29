@@ -23,7 +23,7 @@ Play a Resplendent Crane to be the one with standing, the one who convenes thing
 
 **Feeding.** By right and by title. This path is the reason the clean options are political at all, and Cranes treat unlicensed hunting in another Hungry Dead's territory as an offence, not a faux pas. A Crane who has lost their standing and has to hunt like a newcomer is a Crane one bad night from Denial imbalance.
 
-## Affinity: The Mandate
+<h2 id="the-mandate">Affinity: The Mandate</h2>
 
 The Righteous Aspect turned outward: judgement, authority, and the sanctioned use of both. Cranes who take the Mandate to its end become something the Fellowships have to reckon with. Cranes who take it there for the wrong reasons find out what the last dot costs.
 

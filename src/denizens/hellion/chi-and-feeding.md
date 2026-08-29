@@ -103,13 +103,13 @@ Read graded effects in bands of one success, two to three, and four or more. Aga
 
 **The ceiling.** Difficulty caps at 10. Once accumulated modifiers push past it the effect is impossible, not expensive. It is not attempted and nothing is paid for it.
 
-### The Infernal Tell
+<h3 id="the-infernal-tell">The Infernal Tell</h3>
 
 Using any Demon Art (Black Wind, Iron Mountain, Jeweled Eyes, the Red Panoply, Tears of Hell) where mortals or lesser Dharmas can perceive it makes everyone present worse. For a number of hours equal to the highest Demon Art rating used in the scene, they resist their own darker impulses at one difficulty higher than usual. This lands on Psyche and Willpower rolls, never on Art rolls.
 
 Most Demon Arts are not subtle either. Tears of Hell opens a wet vertical eye in your forehead. The Red Panoply splits your skin. Consider the room.
 
-### The Soul Gate
+<h3 id="the-soul-gate">The Soul Gate</h3>
 
 No Art may be raised above the cap set by where its keyed soul sits in your ranking. Your soul order decides which miracles you will ever be able to learn, and that decision is made at creation and lived with.
 

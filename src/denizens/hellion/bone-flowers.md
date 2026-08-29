@@ -23,7 +23,7 @@ Play a Bone Flower to be the one everybody comes to for information, and the one
 
 **Feeding.** From place, and from the properly mourned. A tended grave-field, a shrine room behind a mortuary, a family plot nobody visits any more. Those who do hunt feed from the dying rather than the healthy, and say the *Prayer for the Eaten* afterwards whether or not anyone is watching.
 
-## Affinity: The Godbody of Bone
+<h2 id="godbody-of-bone">Affinity: The Godbody of Bone</h2>
 
 Bone and Flesh are called the straightforward Godbody Arts, which is a misreading. Bone is not about literal bones. It is about the connection between the corpse-body and death itself. Even a cremated body leaves an enduring skeleton of its life somewhere.
 

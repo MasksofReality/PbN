@@ -207,8 +207,25 @@ You may hold Arts from **one** other tree: the Aligned Arts list of the splat th
 Your first bequeathed Art is chosen at creation from your sire's Aligned list and advances on the Aligned track (0/2/4/6/8, 20 XP to 5). Further Arts from that same tree advance on the Nonaligned track (1/3/5/9/13, 31 XP to 5), and each needs an in-fiction teacher of that splat as well as staff approval. Never at creation.
 
 <div class="callout">
-<strong>For a Hungry Dead sire specifically:</strong> a Dhampir has no Fellowship of their own, so "your sire's Aligned list" means the <em>entire</em> open Dharmic Arts roster, not just the one Fellowship Affinity your sire happened to hold. That means any of the five Fellowship Affinity Arts (Godbody of Bone, The Spirit Mantle, The Red Panoply, Iron Mountain, The Mandate, Black Wind), the Ghost Mantle, and the Arts open to every Fellowship (Godbody of Flesh, Godbody of Ghost-Flame, Godbody of Jade, Godbody of Blood, Jeweled Eyes, Tears of Hell) — see <a href="/denizens/hellion/dharmic-arts-1/">Dharmic Arts I</a> and <a href="/denizens/hellion/dharmic-arts-2/">Dharmic Arts II</a> for the full write-ups. The two Restricted Arts, <a href="/denizens/hellion/restricted-arts/">The Demon's Eye and Hellweaving</a>, are excluded — see below.
+<strong>For a Hungry Dead sire specifically:</strong> a Dhampir has no Fellowship of their own, so "your sire's Aligned list" means the entire open Dharmic Arts roster below, not just the one Fellowship Affinity your sire happened to hold. The two Restricted Arts, The Demon's Eye and Hellweaving, are excluded — the same as they're Restricted for a full Hungry Dead.
 </div>
+
+| Art | Family | Keyed Soul |
+|---|---|---|
+| [Godbody of Bone](/denizens/hellion/bone-flowers/#godbody-of-bone) | Godbody | Denial |
+| [The Spirit Mantle](/denizens/hellion/dharmic-arts-1/#the-spirit-mantle) | Soul | Vitality & Denial |
+| [The Red Panoply](/denizens/hellion/devil-tigers/#the-red-panoply) | Demon | Wickedness |
+| [Iron Mountain](/denizens/hellion/inward-tempests/#iron-mountain) | Demon | Balance |
+| [The Mandate](/denizens/hellion/resplendent-cranes/#the-mandate) | Soul | Righteousness |
+| [Black Wind](/denizens/hellion/thrashing-dragons/#black-wind) | Demon | Vitality |
+| [Godbody of Flesh](/denizens/hellion/dharmic-arts-1/#godbody-of-flesh) | Godbody | Unkeyed |
+| [The Ghost Mantle](/denizens/hellion/dharmic-arts-1/#the-ghost-mantle) | Soul | Denial & Righteousness |
+| [Godbody of Ghost-Flame](/denizens/hellion/dharmic-arts-1/#godbody-of-ghost-flame) | Godbody | Denial & Wickedness |
+| [Jeweled Eyes](/denizens/hellion/dharmic-arts-2/#jeweled-eyes) | Demon | Wickedness & Vitality |
+| [Tears of Hell](/denizens/hellion/dharmic-arts-2/#tears-of-hell) | Demon | Wickedness & Righteousness |
+| [Godbody of Blood](/denizens/hellion/dharmic-arts-2/#godbody-of-blood) | Godbody | Vitality & Righteousness |
+| [Godbody of Jade](/denizens/hellion/dharmic-arts-2/#godbody-of-jade) | Godbody | Denial & Righteousness |
+
 
 Any Art marked Restricted within that tree stays Restricted, and the default answer for a non-member is no. Discordant is closed to you entirely: Discordant covers another group within your own splat, and a Dhampir has no groups.
 

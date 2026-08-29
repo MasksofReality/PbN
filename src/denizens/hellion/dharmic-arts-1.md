@@ -33,7 +33,7 @@ Every Art is a five-dot ladder. **Aligned** rates cover your own Fellowship's Ar
 
 *\*Godbody of Flesh is keyed to no aspect, and an aligned art to all Fellowships — any character may raise it to 5. Nothing else on your sheet is exempt.*
 
-## The Ghost Mantle
+<h2 id="the-ghost-mantle">The Ghost Mantle</h2>
 
 *Soul Art · Denial · Open to every Fellowship*
 
@@ -49,7 +49,7 @@ The Spirit Mantle reaches the Fellowships of the living pattern. This one reache
 
 **●●●●● The Quiet Harbour** — *5 Essence and 1 Willpower.* Anchor a stretch of ground on both sides at once for 28 days. Shades within it cannot be compelled, dragged or consumed, the rivers of eternity will not reroute through it, and nothing wearing an obsidian mark can enter.
 
-## The Spirit Mantle
+<h2 id="the-spirit-mantle">The Spirit Mantle</h2>
 
 *Soul Art · Vitality · Open to every Fellowship*
 
@@ -65,7 +65,7 @@ Not mastery of the corpse but fluency across the barrier. The Pale Between is ri
 
 **●●●●● Both Sides at Once** — *5 Essence and 1 Willpower.* For the scene you stand wholly in the material world and wholly in the Pale, not half in either. Nothing runs at a penalty, you act, fight and feed in both, and you may take an action on one side and your next on the other without crossing. Everything else works the same way in reverse: whatever is over there can reach you here, damage taken on either side lands on the one body, and there is no side to retreat to. Being in two places at once makes you loud. Every spirit within a mile knows where you are standing and some of them will come to see what could do that.
 
-## Godbody of Flesh
+<h2 id="godbody-of-flesh">Godbody of Flesh</h2>
 
 *Godbody Art · Vitality · Mandatory at Creation*
 
@@ -81,7 +81,7 @@ Bone insists on permanence. Flesh insists on the opposite: that a body is a proc
 
 **●●●●● Phoenix Rising** — *5 Essence and 1 Willpower.* Instantly regain 3 health boxes, restoring the least damaged health boxes first. If in torpor this revives you. Additionally, the energy released manifests as a rush of flame which burns anyone within 5 meters for a point of aggravated damage.
 
-## Godbody of Ghost-Flame
+<h2 id="godbody-of-ghost-flame">Godbody of Ghost-Flame</h2>
 
 *Godbody Art · Denial · Open to every Fellowship*
 

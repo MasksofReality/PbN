@@ -23,7 +23,7 @@ Play a Devil-Tiger to be frightening without apologising for it, and if you can 
 
 **Feeding.** On the deserving, and they are the one path that will say so out loud. Predators, traffickers, slavers, ichor-brokers who cut their product with something worse. A Tiger's hunting is framed as sentence, not appetite, which conveniently makes the ugliest method the most defensible one. Some go further and eat flesh, which is taboo everywhere and the fastest way off any path. Tigers who make a habit of it do not keep their Dharma long.
 
-## Affinity: The Red Panoply
+<h2 id="the-red-panoply">Affinity: The Red Panoply</h2>
 
 Raw capacity dragged out of hell. Each dot grants one permanent monstrous **Feature** you can call up at will. Remember the [infernal tell](/denizens/hellion/chi-and-feeding/#the-infernal-tell): Demon Arts leave everyone nearby a little worse for hours.
 
