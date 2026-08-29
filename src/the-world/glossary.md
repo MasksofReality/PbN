@@ -68,7 +68,7 @@ This is not a standard World of Darkness setting. Many familiar terms have chang
 
 **Wyrd-born** — True Fae, the most powerful Fae beings. Storyteller-controlled only — not playable. The bana'Shee of the Isle of Purgatory is a Wyrd-born.
 
-**Hellion** — The Hungry Dead. Beings who have died, endured the Thousand Hells, and returned changed — dual-natured, driven by Dharma, sustained by Essence. Not vampires, though both are undead. Five common Dharma paths: Devil Tiger, Incandescent Owl, Hymn of the Autumnal Vigil, Song of the Dancing Dragon, and Spirit of the Living Earth, plus the Rare path of a Thousand Whispers. See the [Hellion](/denizens/hellion/) page for details.
+**Hungry Dead** *(Rare splat — Storyteller-share only)* — Beings who have died, endured the Thousand Hells, and returned changed — dual-natured, driven by Dharma, sustained by Essence. Not vampires, though both are undead. Five common Dharma paths: Devil Tiger, Incandescent Owl, Hymn of the Autumnal Vigil, Song of the Dancing Dragon, and Spirit of the Living Earth, plus the Rare-within-Rare path of a Thousand Whispers. Ask your Mentor or a Storyteller if you're interested.
 
 **Sorcerers** — Practitioners of hedge magic derived from pacts and structured schools rather than the self. Six Schools: Artificers, Augurs, Druids, Ossians, Wayfarers, and Fury Shapers.
 
@@ -89,7 +89,7 @@ This is not a standard World of Darkness setting. Many familiar terms have chang
 | **RP** | Roleplay |
 | **ST** | Storyteller |
 | **NPC / PC** | Non-Player Character / Player Character |
-| **Splat** | A supernatural type — Vampire, Werewolf, Lost, Hellion, Sorcerer, Psychic, Human, or Imbued |
+| **Splat** | A supernatural type — Vampire, Werewolf, Lost, Hungry Dead, Sorcerer, Psychic, Human, or Imbued |
 | **Subtype** | The specific variety within a splat — bloodline, tribe, seeming, dharma, school, or profession |
 | **FFC** | Free-Form Combat — used only when all parties explicitly agree |
 | **Metagaming** | Using knowledge your character couldn't realistically have |

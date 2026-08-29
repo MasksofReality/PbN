@@ -26,8 +26,17 @@ This page exists only for Mentors and Storytellers to find and share direct link
 - [Piskie](/denizens/lost/dreamborne/piskie/) — The Child
 - [Firbolg](/denizens/lost/dreamborne/firbolg/) — The Orphan
 
-## Hellion — Rare Dharma Path
+## Hungry Dead (Full Splat — Rare)
 
-- [A Thousand Whispers](/denizens/hellion/thousand-whispers/) — already noted with a Rare-path callout on the public Hellion page, included here for completeness
+The whole splat, not just one path within it. Removed from the main nav and homepage.
+
+- [Hungry Dead Overview](/denizens/hungrydead/)
+- [Creation Guide](/character-creation/makinghungrydead/)
+- [Devil Tiger](/denizens/hellion/devil-tiger/)
+- [Incandescent Owl](/denizens/hellion/incandescent-owl/)
+- [Hymn of the Autumnal Vigil](/denizens/hellion/hymn-of-the-autumnal-vigil/)
+- [Song of the Dancing Dragon](/denizens/hellion/song-of-the-dancing-dragon/)
+- [Spirit of the Living Earth](/denizens/hellion/spirit-of-the-living-earth/)
+- [A Thousand Whispers](/denizens/hellion/thousand-whispers/) — Rare-within-Rare; wasn't shown even when the rest of the splat was public
 
 *As more Rare content gets built, add it to this list.*

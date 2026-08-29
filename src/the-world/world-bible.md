@@ -211,7 +211,7 @@ Full character creation information for each is in the [Character Creation Guide
 
 **Lost.** The Great Wyrdstorm cracked the gates to Arcadia and the Dreaming open. What remains are three distinct peoples: the Lost (playable), the Dreamborne (rare, playable), and the Wyrd-born (Storyteller-controlled). The six seemings are Beasts, Darklings, Elementals, Fairest, Ogres, and Wizened.
 
-**Hellion.** The Hungry Dead — those who have died, endured the Thousand Hells, and returned changed. Not vampires, though both are undead. Hellions walk a Dharma path and manage the balance between their Ego and their Shadow.
+**Hungry Dead** *(Rare splat — Storyteller-share only).* Those who have died, endured the Thousand Hells, and returned changed. Not vampires, though both are undead. They walk a Dharma path and manage the balance between their Ego and their Shadow.
 
 **Sorcerers.** Awakened magic died with the Mages. Sorcerers survived because their magic was always smaller in scale and more rigid — a "paint by numbers" practice that bureaucracy could legislate. The six schools are Artificers, Augurs, Druids, Ossians, Wayfarers, and Fury Shapers.
 
