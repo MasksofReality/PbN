@@ -206,6 +206,10 @@ You may hold Arts from **one** other tree: the Aligned Arts list of the splat th
 
 Your first bequeathed Art is chosen at creation from your sire's Aligned list and advances on the Aligned track (0/2/4/6/8, 20 XP to 5). Further Arts from that same tree advance on the Nonaligned track (1/3/5/9/13, 31 XP to 5), and each needs an in-fiction teacher of that splat as well as staff approval. Never at creation.
 
+<div class="callout">
+<strong>For a Hungry Dead sire specifically:</strong> a Dhampir has no Fellowship of their own, so "your sire's Aligned list" means the <em>entire</em> open Dharmic Arts roster, not just the one Fellowship Affinity your sire happened to hold. That means any of the five Fellowship Affinity Arts (Godbody of Bone, The Spirit Mantle, The Red Panoply, Iron Mountain, The Mandate, Black Wind), the Ghost Mantle, and the Arts open to every Fellowship (Godbody of Flesh, Godbody of Ghost-Flame, Godbody of Jade, Godbody of Blood, Jeweled Eyes, Tears of Hell) — see <a href="/denizens/hellion/dharmic-arts-1/">Dharmic Arts I</a> and <a href="/denizens/hellion/dharmic-arts-2/">Dharmic Arts II</a> for the full write-ups. The two Restricted Arts, <a href="/denizens/hellion/restricted-arts/">The Demon's Eye and Hellweaving</a>, are excluded — see below.
+</div>
+
 Any Art marked Restricted within that tree stays Restricted, and the default answer for a non-member is no. Discordant is closed to you entirely: Discordant covers another group within your own splat, and a Dhampir has no groups.
 
 The four-Art limit applies, so Skein plus at most three bequeathed.

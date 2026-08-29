@@ -24,15 +24,21 @@ This page exists only for Mentors and Storytellers to find and share direct link
 
 ## Hungry Dead (Full Splat — Rare)
 
-The whole splat, not just one path within it. Removed from the main nav and homepage.
+The whole splat, not just one path within it. Removed from the main nav and homepage. Fully rebuilt from the ground up — the old Fellowships (Devil Tiger, Incandescent Owl, Hymn of the Autumnal Vigil, Song of the Dancing Dragon, Spirit of the Living Earth, A Thousand Whispers) are gone, replaced entirely by the six below.
 
 - [Hungry Dead Overview](/denizens/hungrydead/)
 - [Creation Guide](/character-creation/makinghungrydead/)
-- [Devil Tiger](/denizens/hellion/devil-tiger/)
-- [Incandescent Owl](/denizens/hellion/incandescent-owl/)
-- [Hymn of the Autumnal Vigil](/denizens/hellion/hymn-of-the-autumnal-vigil/)
-- [Song of the Dancing Dragon](/denizens/hellion/song-of-the-dancing-dragon/)
-- [Spirit of the Living Earth](/denizens/hellion/spirit-of-the-living-earth/)
-- [A Thousand Whispers](/denizens/hellion/thousand-whispers/) — Rare-within-Rare; wasn't shown even when the rest of the splat was public
+- [Chi & Feeding](/denizens/hellion/chi-and-feeding/)
+- [Souls & Dharma](/denizens/hellion/souls-and-dharma/)
+- [Injury, Torpor & Final Destruction](/denizens/hellion/injury-and-death/)
+- [Bone Flowers](/denizens/hellion/bone-flowers/)
+- [Cerulean Veils](/denizens/hellion/cerulean-veils/) — incomplete in the source document, flagged on the page itself
+- [Devil-Tigers](/denizens/hellion/devil-tigers/)
+- [Inward Tempests](/denizens/hellion/inward-tempests/)
+- [Resplendent Cranes](/denizens/hellion/resplendent-cranes/)
+- [Thrashing Dragons](/denizens/hellion/thrashing-dragons/)
+- [Dharmic Arts I: The Mantles & Godbodies of Vitality](/denizens/hellion/dharmic-arts-1/)
+- [Dharmic Arts II: The Demon Arts & Remaining Godbodies](/denizens/hellion/dharmic-arts-2/)
+- [Restricted Arts](/denizens/hellion/restricted-arts/) — The Demon's Eye and Hellweaving
 
 *As more Rare content gets built, add it to this list.*
