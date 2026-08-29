@@ -10,21 +10,17 @@ eyebrow: Not Linked From Site Navigation
 This page exists only for Mentors and Storytellers to find and share direct links with a specific player under consideration for a Rare path. It is not linked from the main site navigation or the Lost overview, and won't be found by players browsing normally. Bookmark this page for your own reference.
 </div>
 
-## Dreamborne (Lost — Rare Path)
+## The Dreamborn (Lost — Rare Path)
 
-- [Dreamborne Overview](/denizens/lost/dreamborne/) — Glamour system, activation rules, and the full Kith list
-- [Troll](/denizens/lost/dreamborne/troll/) — The Warrior
-- [Nocker](/denizens/lost/dreamborne/nocker/) — The Creator
-- [Boggan](/denizens/lost/dreamborne/boggan/) — The Caregiver
-- [Eshu](/denizens/lost/dreamborne/eshu/) — The Sage
-- [Pooka](/denizens/lost/dreamborne/pooka/) — The Joker
-- [Sluagh](/denizens/lost/dreamborne/sluagh/) — The Occultist
-- [Sidhe](/denizens/lost/dreamborne/sidhe/) — The Leader
-- [Clurichaun](/denizens/lost/dreamborne/clurichaun/) — The Rebel
-- [Satyr](/denizens/lost/dreamborne/satyr/) — The Lover
-- [Siren](/denizens/lost/dreamborne/siren/) — The Seductress
-- [Piskie](/denizens/lost/dreamborne/piskie/) — The Child
-- [Firbolg](/denizens/lost/dreamborne/firbolg/) — The Orphan
+- [The Dreamborn Overview](/denizens/lost/dreamborne/) — what a Dreamborn is, the Mask and Mien, and the four creation choices
+- [The Fables of Man](/denizens/lost/dreamborne/fables/) — all fourteen Fables
+- [Aspects of the Mien](/denizens/lost/dreamborne/aspects/) — the thirteen Aspects
+- [Bans](/denizens/lost/dreamborne/bans/) — the twelve folkloric prohibitions
+- [Motifs I: Mask, Hearth, Crown, Road](/denizens/lost/dreamborne/motifs-1/)
+- [Motifs II: Forge, Hunt, Longing, Hollow](/denizens/lost/dreamborne/motifs-2/)
+- [Motifs III: Misrule, Elements, Gossamer](/denizens/lost/dreamborne/motifs-3/)
+- [Signatures](/denizens/lost/dreamborne/signatures/) — a single fixed effect bought as a Merit
+- [Glamour, Stability, Body & Creation](/denizens/lost/dreamborne/mechanics/) — full mechanics and the creation table
 
 ## Hungry Dead (Full Splat — Rare)
 
