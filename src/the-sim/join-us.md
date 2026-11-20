@@ -33,14 +33,6 @@ You've hopefully already read the [Welcome](/the-sim/welcome/) page, the [Mature
 
 **4. Land in Basilica Purgatory.** Once your character's approved, you'll get your character tag, a faction introduction if you want one, and a starting scene from your Mentor to ease you in.
 
-## What to Expect on Arrival
-
-Second Life sims can be disorienting the first time you land, especially in a build as dense and atmospheric as Basilica Purgatory. A few practical notes:
-
-- Give your viewer a minute to fully rez the region before wandering — the Undercity in particular is texture-heavy.
-- The landing point has signage pointing toward key locations: faction headquarters, the Overcity plaza, and the new-player orientation area.
-- If you land and don't see another soul around, that's normal — check Discord for who's currently in-world and looking for scenes.
-
 ## Still Have Questions?
 
 That's what the Discord is for. Staff and Mentors are far faster to reach there than through any form on this site — jump in, say hello, and someone will point you in the right direction.
