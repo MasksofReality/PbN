@@ -26,20 +26,17 @@ Most scenarios will not be graphically explicit. The implications of these subje
 
 ## Why Are We Telling You This?
 
-Because someone reading this is new to this genre.
+- Because someone reading this is new to this genre.
 
-Because someone has lived through one or more of these experiences in real life.
+- Because someone has lived through one or more of these experiences in real life.
 
-Because someone deserves to know what they are stepping into.
+- Because someone deserves to know what they are stepping into.
 
-We want our players to know that we are aware of the weight these subjects carry.
+- We want our players to know that we are aware of the weight these subjects carry.
 
 We ask that you carry that awareness with you into every scene you participate in.
-
 This is not a license to use dark themes as a weapon against other players. It is not permission to violate, manipulate, or override the story another player is telling. It is not an excuse.
-
 It is a promise, from us to you, that we know this content is real, and that we take seriously the responsibility of creating a space where it can be explored with honesty and with care.
-
 If at any time a scene becomes too much, you are always within your rights to step away. Do so respectfully, and know that no reasonable person will judge you for it.
 
 <div class="callout callout--rare">
