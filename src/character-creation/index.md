@@ -318,6 +318,4 @@ Before you send it in, make sure you have:
 
 Our Mentors are on Discord and in-world in Second Life, ready to help with anything from "where do I start?" to "can you read this one more time?"
 
-Ask for a Discord Invite In-World · [Visit Our Second Life Landing Zone](https://maps.secondlife.com/secondlife/Adorkable/225/34/3010)
-
 *Welcome to Basilica Purgatory. The city needs you. Whatever you are.*
