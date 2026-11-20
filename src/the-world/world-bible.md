@@ -304,15 +304,15 @@ Full character creation information for each is in the [Character Creation Guide
 
 **Lost.** The Great Wyrdstorm cracked the gates to Arcadia and the Dreaming open. What remains are three distinct peoples: the Lost (playable), the Dreamborne (rare, playable), and the Wyrd-born (Storyteller-controlled). The six seemings are Beasts, Darklings, Elementals, Fairest, Ogres, and Wizened.
 
-**Hungry Dead** *(Rare splat — Storyteller-share only).* Those who have died, endured the Thousand Hells, and returned changed. Not vampires, though both are undead. They walk a Dharma path and manage the balance between their Ego and their Shadow.
+**Dhampir.** Children of the Living and the Dead. While not numerous, these people are seen as the ones that bridge the worlds together. Dhampirs are not considered human enough to be Humans nor are the Nightfolk enough to be a true Nightfolk.
 
 **Sorcerers.** Awakened magic died with the Mages. Sorcerers survived because their magic was always smaller in scale and more rigid — a "paint by numbers" practice that bureaucracy could legislate. The six schools are Artificers, Augurs, Druids, Ossians, Wayfarers, and Fury Shapers.
 
-**Psychics.** Psychic ability can emerge in any human born inside the Basilica — and it is a liability, not a gift, since the general population mistakes it for Awakened magic. Every Psychic learns to mask their ability as Sorcerer-style practice.
+**Metahumans.** Psychic ability can emerge in any human born inside the Basilica — and it is a liability, not a gift, since the general population mistakes it for Awakened magic. Every Psychic learns to mask their ability as Sorcerer-style practice.
 
 **Humans.** The majority of Basilica Purgatory. They run the city, staff its institutions, and outnumber every supernatural type combined. Human characters choose a Profession.
 
-**Imbued.** Humans who died to an aberrant and returned through the Harrowing, bound to an Edict none of them chose and none can explain. They don't hunt supernaturals purely to destroy them — each Calling (Hunt, Hold, Witness, Weigh, Mend, Warn) answers a different mandate, and together they exist to maintain balance and keep the Veil intact.
+**Imbued.** (Rare splat - Admin Approval needed) Humans who died to an aberrant and returned through the Harrowing, bound to an Edict none of them chose and none can explain. They don't hunt supernaturals purely to destroy them — each Calling (Hunt, Hold, Witness, Weigh, Mend, Warn) answers a different mandate, and together they exist to maintain balance and keep the Veil intact.
 
 ---
 
