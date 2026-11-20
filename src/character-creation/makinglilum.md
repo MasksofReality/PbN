@@ -70,6 +70,6 @@ Character creation gives you the numbers. These pages cover everything you'll ac
 - **[Vitae & the Cost of Immortality](/denizens/kindred/vitaeandcost/)** — feeding, healing, Tether, torpor, Final Death, and Ghouls
 - **[The Blood Arts](/denizens/kindred/blood-arts/)** — the full tier-by-tier breakdown of all eleven common Arts
 - **[Thaumaturgy](/denizens/kindred/thaumaturgy/)** — the four Restricted Paths, for later in a character's life, not at creation
-- **[Merits & Flaws](/character-creation/merits-and-flaws/)** — see the Kindred (Lilum) Merits section; Lilum have no Flaws at all
+- **[Merits](/character-creation/merits/)** — the general Merits list; there are no Flaws
 
 <p class="eyebrow">See also: <a href="/denizens/kindred/">Lilum overview</a> · <a href="/character-creation/">Character Creation Guide</a></p>

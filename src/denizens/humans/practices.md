@@ -78,4 +78,4 @@ Any implant that confers capability is bought as its own Merit, requires the Gra
 | **Concealed Mount** | 2 | One named tool or small weapon is always on you, including where it should not be. It survives an ordinary search and reads as tissue on a casual inspection. |
 | **Reinforced Frame** | 3 | One extra die to soak bashing and lethal. Obvious on any medical examination and on most careful ones. |
 
-<p class="eyebrow">See also: <a href="/denizens/humans/">Humans overview</a> · <a href="/character-creation/makinghuman/">Human Creation Guide</a> · <a href="/character-creation/merits-and-flaws/">Merits & Flaws</a></p>
+<p class="eyebrow">See also: <a href="/denizens/humans/">Humans overview</a> · <a href="/character-creation/makinghuman/">Human Creation Guide</a> · <a href="/character-creation/merits/">Merits</a></p>

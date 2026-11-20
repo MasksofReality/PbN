@@ -101,6 +101,6 @@ Character creation gives you the numbers. These pages cover everything you'll ac
 - **[Professional Practices](/denizens/humans/practices/)** — what a Practice is, what a Stigma costs, and how Standing works
 - **[Draining, Death and the Ways Out](/denizens/humans/mortality/)** — feeding, Vitality, Attrition, Final Death, Sorcery, the Gentry and Ghouls
 - **[Stability, Triggers and Eldritch](/denizens/humans/stability/)** — the added human triggers and what a dot of Eldritch actually buys you
-- **[Merits & Flaws](/character-creation/merits-and-flaws/)** — see the Human Merits and Implants sections
+- **[Merits](/character-creation/merits/)** — the general Merits list; Human Merits are on the [Professional Practices](/denizens/humans/practices/) page
 
 See also: [Humans overview](/denizens/humans/) · [Character Creation Guide](/character-creation/)
