@@ -28,7 +28,7 @@ The table below reflects the current status of every business on Purgatory Islan
 |---|---|---|
 | Tartarus | **Nikul (Nikul Firlan)** | **Claimed** |
 | Hades Theatre | — | **Available** |
-| Pandemonium | **Mircea (Nathyn Soothayer)** | **Claimed** |
+| Pandemonium | **Mircea (Nathyn Soothsayer)** | **Claimed** |
 | Release the Kraken, Club Kraken | *Strip Club/Burlesque* | **Available** |
 | Stardust Coffee | *Coffee shop with mini stage* | **Available** |
 | The Boneyard Mexican Restaurant | *Food place* | **Available** |
