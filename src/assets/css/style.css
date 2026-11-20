@@ -701,5 +701,5 @@ body::before {
   .nav-group.is-open .nav-dropdown { max-height: 400px; padding: 0.2em 0 0.6em; }
   .nav-dropdown a { padding: 0.5em 0 0.5em 1em; }
 }
-* Bold emphasis on simple pages (e.g. Community Rules): amber + heavier so rule titles stand out */
+/* Bold emphasis on simple pages (e.g. Community Rules): amber + heavier so rule titles stand out */
 .page--simple strong { color: var(--wyrd-amber); font-weight: 600; }
