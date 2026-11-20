@@ -41,11 +41,11 @@ All Second Life Terms of Service and Community Standards apply at all times on t
 We want to be direct with you about how we handle rule violations, because clarity is kinder than ambiguity.
 
 | Situation | What Happens |
-|---|---|
-| First instance (most violations) | A staff member will speak with you. You will be given the opportunity to correct the behavior. Most situations end here. |
-| Repeated or escalating behavior | A formal warning is issued and documented. Further escalation results in a temporary or permanent ban depending on severity. |
-| Immediate permanent ban | Harassment. Violation of Second Life ToS. Griefing. Abuse of players using real-world vulnerabilities. False accusations intended to harm another player. These do not receive warnings. |
-| Linden Labs reports | ToS violations and harassment that meet the threshold for abuse reporting will be reported to Linden Labs in addition to our internal action. |
+|----|----|
+| First instance (most violations) |  A staff member will speak with you. You will be given the opportunity to correct the behavior. Most situations end here. |
+| Repeated or escalating behavior |  A formal warning is issued and documented. Further escalation results in a temporary or permanent ban depending on severity. |
+| Immediate permanent ban |  Harassment. Violation of Second Life ToS. Griefing. Abuse of players using real-world vulnerabilities. False accusations intended to harm another player. These do not receive warnings. |
+| Linden Labs reports |  ToS violations and harassment that meet the threshold for abuse reporting will be reported to Linden Labs in addition to our internal action. |
 
 **Appeals:** If you believe a staff decision was made in error, you may appeal directly to the Sim Owner. Appeals must be made calmly and in good faith. Debating, arguing, or demanding reversal of a ruling in public will not result in reconsideration. It will result in confirmation of the original decision.
 
